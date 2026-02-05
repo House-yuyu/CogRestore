@@ -1,0 +1,271 @@
+gt_path	lq_path	caption	degradation
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/193.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/193.png	a plane flying over a green field with a forest	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/220.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/220.png	a snowboarder is riding down a snowy slope	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/161.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/161.png	a plane flying over a desert area with a small town	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/222.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/222.png	a plane flying over a mountain range	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/129.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/129.png	a plane flying over a city on a cloudy day	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/179.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/179.png	a satellite image of a city	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/259.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/259.png	a man on a snowboard in the snow	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/44.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/44.png	a satellite image of a river running through a city	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/115.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/115.png	a bird flying over a body of water	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/81.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/81.png	a bird flying over a body of water	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/195.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/195.png	a large green area with a blue sky	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/211.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/211.png	a large body of water	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/233.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/233.png	a satellite image of a small town	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/253.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/253.png	a plane flying over a mountain range	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/11.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/11.png	a plane flying over a city with a river	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/69.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/69.png	a plane flying over a city with a lot of buildings	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/102.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/102.png	a plane flying over a mountain range	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/132.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/132.png	a plane flying over a forest filled with trees	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/28.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/28.png	a map of a city with a plane flying over it	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/149.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/149.png	a bird flying over a green and blue surface	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/122.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/122.png	a bird flying over a green and brown surface	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/138.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/138.png	a satellite image of a city	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/98.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/98.png	a plane flying over a body of water	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/206.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/206.png	a plane flying over a mountain range	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/213.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/213.png	a man in a wet suit is surfing on a wave	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/121.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/121.png	a man in a wet suit is surfing on a wave	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/47.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/47.png	a large river	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/133.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/133.png	a plane flying over a large body of water	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/196.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/196.png	a map of the city of london	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/246.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/246.png	a man in a suit and tie is holding a cell	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/135.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/135.png	a plane flying over a mountain range	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/170.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/170.png	a large green marble	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/209.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/209.png	a plane flying over a mountain range	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/254.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/254.png	a person is flying through the air	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/180.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/180.png	a plane flying over a forest filled with trees	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/242.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/242.png	a plane flying over a mountain range	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/169.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/169.png	a large area of green land with a small patch of land	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/150.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/150.png	a plane flying over a green mountain	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/229.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/229.png	a satellite image of a mountain range	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/125.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/125.png	a plane flying over a mountain range	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/256.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/256.png	a man on a surfboard riding a wave	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/119.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/119.png	a man in a wet suit is standing on a surfboard	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/56.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/56.png	a plane is flying over a large area of water	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/137.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/137.png	a bird flying over a body of water	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/263.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/263.png	a plane flying over a green and blue ocean	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/226.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/226.png	a bird flying over a body of water	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/12.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/12.png	a map of a city with a lot of buildings	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/234.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/234.png	a plane flying over a green landscape	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/99.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/99.png	a bird flying over a green field with a bird in the background	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/105.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/105.png	a plane flying over a city on a cloudy day	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/20.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/20.png	a plane flying over a green mountain range	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/258.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/258.png	a man riding a snowboard down a slope	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/54.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/54.png	a plane flying over a city on a cloudy day	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/252.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/252.png	a man in a suit and tie is on a snowboard	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/156.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/156.png	a plane flying over a green landscape	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/188.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/188.png	a man on a skateboard on a concrete surface	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/189.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/189.png	a person on a skateboard on a concrete surface	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/109.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/109.png	a large city	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/82.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/82.png	a satellite image of a city	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/172.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/172.png	a plane flying over a green field	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/255.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/255.png	a man riding a skateboard down a cement wall	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/39.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/39.png	a satellite image of a city	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/42.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/42.png	a plane flying over a green mountain range	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/26.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/26.png	a large area of land	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/67.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/67.png	a large bird flying over a body of water	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/94.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/94.png	a plane flying over a large body of water	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/223.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/223.png	a satellite image of a mountain range	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/85.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/85.png	a large area of land	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/90.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/90.png	a satellite image of a city	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/250.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/250.png	a map of a city with a plane flying over it	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/144.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/144.png	a plane flying over a body of water	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/71.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/71.png	a plane flying over a forest filled with trees	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/33.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/33.png	a satellite image of a city	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/216.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/216.png	a man is playing tennis on a court	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/168.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/168.png	a green marble floor with a white and black marble	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/247.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/247.png	a plane flying over a green field with a forest in the background	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/7.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/7.png	a blue and white fire in a field	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/116.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/116.png	a plane flying over a body of water	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/41.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/41.png	a plane flying over a city with a lot of smoke	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/203.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/203.png	a man is doing a trick on a skateboard	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/10.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/10.png	a large body of water	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/25.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/25.png	a plane flying over a mountain range	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/230.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/230.png	a plane flying over a mountain range	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/205.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/205.png	a view of a mountain range from a plane	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/268.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/268.png	a man holding a tennis racket on a tennis court	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/228.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/228.png	a bird flying over a body of water	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/9.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/9.png	a man in a suit and tie is standing on a ledge	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/185.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/185.png	a plane flying over a city on a cloudy day	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/262.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/262.png	a plane flying over a green field	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/261.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/261.png	a plane flying over a large body of water	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/40.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/40.png	a man in a wet suit is standing on a surfboard	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/35.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/35.png	a plane flying over a city with a lot of smoke	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/217.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/217.png	a small patch of land on the surface of mars	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/212.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/212.png	a plane flying over a mountain range	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/86.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/86.png	a satellite image of a city	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/160.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/160.png	a plane flying over a body of water	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/232.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/232.png	a plane flying over a green mountain range	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/265.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/265.png	a map of the city of los	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/154.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/154.png	a plane flying over a lush green forest	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/113.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/113.png	a man in a wet suit is standing on a surfboard	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/52.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/52.png	a man in a wet suit surfing on a wave	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/175.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/175.png	a man in a suit and tie is standing on a ledge	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/182.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/182.png	a plane flying over a desert area with a sky background	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/96.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/96.png	a plane flying over a mountain range with a cloud	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/136.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/136.png	a plane flying over a green and brown surface	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/126.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/126.png	a fire is burning in the middle of a mountain	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/53.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/53.png	a plane flying over a lush green forest	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/145.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/145.png	a plane flying over a green field with a lot of smoke	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/31.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/31.png	a large city	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/27.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/27.png	a satellite image of a city	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/152.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/152.png	a plane flying over a green mountain	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/32.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/32.png	a large area of land	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/264.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/264.png	a plane flying over a mountain range	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/6.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/6.png	a plane flying over a green field	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/5.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/5.png	a man is surfing on a wave in the ocean	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/243.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/243.png	a large area of land	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/194.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/194.png	a tennis player is holding a racket	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/146.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/146.png	a plane flying over a body of water	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/248.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/248.png	a plane flying over a body of water	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/147.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/147.png	a plane flying over a forest filled with trees	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/72.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/72.png	a fire is burning in the mountains	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/75.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/75.png	a large area of land	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/87.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/87.png	a map of the city of philadelphia	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/141.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/141.png	a plane flying over a mountain range	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/79.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/79.png	a map of a city with a river running through it	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/238.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/238.png	a large area of land	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/241.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/241.png	a satellite image of a mountain range	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/187.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/187.png	a satellite satellite satellite system	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/224.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/224.png	a plane flying over a green and gray marble	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/103.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/103.png	a plane flying over a mountain range	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/8.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/8.png	a plane flying over a city	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/200.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/200.png	a plane flying over a city on a cloudy day	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/239.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/239.png	a man in a suit and tie is standing on a ledge	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/204.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/204.png	a bird flying over a field of grass	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/50.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/50.png	a plane flying over a green field with a cloud	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/123.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/123.png	a man is surfing on a wave in the ocean	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/93.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/93.png	a plane flying over a city	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/89.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/89.png	a map of the city of houston	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/190.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/190.png	a man in a wet suit is surfing on a wave	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/21.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/21.png	a satellite image of a city	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/153.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/153.png	a green marble floor with a white marble	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/77.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/77.png	a satellite image of a city	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/36.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/36.png	a satellite image of a city	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/167.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/167.png	a green marble floor with a white line	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/22.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/22.png	a map of the city of rome	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/139.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/139.png	a plane flying over a mountain range	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/58.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/58.png	a large body of water	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/100.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/100.png	a plane flying over a green mountain range	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/127.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/127.png	a plane flying over a mountain range	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/134.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/134.png	a plane flying over a forest filled with smoke	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/128.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/128.png	a plane flying over a city	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/66.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/66.png	a satellite image of a city	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/236.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/236.png	a plane flying over a large mountain range	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/221.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/221.png	a snowboarder is on the snow covered ground	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/91.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/91.png	a plane flying over a city on a cloudy day	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/14.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/14.png	a plane flying over a city	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/92.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/92.png	a plane flying over a city with a lot of buildings	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/245.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/245.png	a tennis player is holding a racket	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/148.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/148.png	a green marble texture	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/164.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/164.png	a plane flying over a city with a lot of buildings	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/57.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/57.png	a large body of water	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/37.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/37.png	a bird is flying over the water	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/197.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/197.png	a satellite image of a city	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/59.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/59.png	a man in a suit and tie is on a skateboard	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/251.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/251.png	a man in a suit and tie is standing on a ledge	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/244.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/244.png	a man in a suit and tie is standing on a ledge	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/257.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/257.png	a man flying through the air while riding a snowboard	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/237.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/237.png	a view of a mountain range from space	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/158.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/158.png	a plane flying over a green mountain range	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/214.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/214.png	a fire is burning in the middle of a large area	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/18.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/18.png	a map of the city of london	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/65.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/65.png	a map of the city of houston	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/61.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/61.png	a plane flying over a body of water	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/76.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/76.png	a plane flying over a green mountain	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/184.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/184.png	a map of the city of london	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/249.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/249.png	a plane flying over a body of water	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/157.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/157.png	a plane flying over a green mountain range	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/162.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/162.png	a person is walking on a path through a field	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/2.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/2.png	a man is surfing on a wave in the ocean	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/16.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/16.png	a map of the city of london	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/142.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/142.png	a plane flying over a large body of water	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/219.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/219.png	a man in a suit and tie is holding a cell	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/74.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/74.png	a satellite image of a river and a city	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/117.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/117.png	a man in a suit and tie is holding a cell	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/210.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/210.png	a bird flying over a mountain range	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/166.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/166.png	a plane flying over a city	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/140.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/140.png	a river running through a valley	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/68.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/68.png	a plane flying over a large green field	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/30.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/30.png	a plane flying over a city with a lot of buildings	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/151.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/151.png	a plane flying over a green and blue surface	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/112.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/112.png	a fire burning in the middle of a forest	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/38.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/38.png	a plane flying over a mountain range	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/124.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/124.png	a plane flying over a mountain range	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/227.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/227.png	a bird is flying over the water	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/34.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/34.png	a fire is burning in the middle of a field	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/231.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/231.png	a plane flying over a mountain range	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/88.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/88.png	a map of the city of london	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/95.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/95.png	a large body of water	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/176.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/176.png	a plane flying over a green field with a forest	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/208.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/208.png	a plane flying over a mountain range	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/198.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/198.png	a plane flying over a large body of water	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/107.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/107.png	a plane flying over a mountain range	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/267.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/267.png	a satellite image of a city	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/143.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/143.png	a plane flying over a river in the middle of a city	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/55.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/55.png	a man is holding a surfboard on a beach	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/108.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/108.png	a satellite image of a city	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/15.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/15.png	a satellite image of a city	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/1.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/1.png	a bird is flying over a green surface	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/215.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/215.png	a fire is burning in the middle of a forest	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/43.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/43.png	a plane flying over a green mountain range	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/120.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/120.png	a bird is flying over a green field	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/201.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/201.png	a fire hydra is in the middle of a river	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/163.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/163.png	a man in a wet suit is flying a kite	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/260.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/260.png	a man riding a snowboard down a snow covered slope	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/29.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/29.png	a map of the city of london	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/62.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/62.png	a large body of water	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/48.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/48.png	a plane flying over a forest filled with trees	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/80.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/80.png	a large area of green land	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/118.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/118.png	a plane flying over a lush green valley	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/165.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/165.png	a plane flying over a mountain range	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/269.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/269.png	a plane flying over a city on a cloudy day	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/192.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/192.png	a plane flying over a mountain range	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/266.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/266.png	a map of the city of houston	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/178.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/178.png	a black and white plane flying over a field	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/218.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/218.png	a snowboarder is riding down a snowy slope	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/101.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/101.png	a plane flying over a mountain range	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/63.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/63.png	a man is holding a tennis racket	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/159.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/159.png	a plane flying over a city on a clear day	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/3.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/3.png	a plane flying over a green and brown area	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/181.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/181.png	a man is standing on a surfboard in the ocean	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/173.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/173.png	a man in a wet suit is standing on a surfboard	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/130.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/130.png	a large body of water	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/46.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/46.png	a map of a city with a plane flying over it	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/83.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/83.png	a large area with a lot of small buildings	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/155.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/155.png	a plane flying over a body of water	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/270.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/270.png	a satellite image of a city	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/240.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/240.png	a satellite image of a mountain range	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/111.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/111.png	a fire is burning in the middle of the ocean	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/191.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/191.png	a plane flying over a green field with a forest	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/51.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/51.png	a plane flying over a green and blue ocean	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/199.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/199.png	a man is playing tennis on a court	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/84.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/84.png	a satellite image of a city	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/207.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/207.png	a plane flying over a mountain range	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/183.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/183.png	a plane flying over a city on a cloudy day	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/4.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/4.png	a large area of land	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/73.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/73.png	a plane flying over a city on a cloudy day	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/171.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/171.png	a man is flying a kite in the air	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/64.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/64.png	a satellite image of the city of houston	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/49.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/49.png	a plane flying over a forest filled with trees	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/131.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/131.png	a plane flying over a mountain range	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/13.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/13.png	a map of a city	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/60.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/60.png	a person is flying through the air with a kite	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/70.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/70.png	a large river	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/174.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/174.png	a plane flying over a green field	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/97.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/97.png	a man is flying through the air with a kite	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/24.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/24.png	a map of the city of london	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/78.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/78.png	a plane flying over a city on a clear day	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/45.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/45.png	a plane flying over a forest filled with trees	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/225.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/225.png	a plane flying over a large area of land	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/104.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/104.png	a map of the area	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/186.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/186.png	a satellite image of a city	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/235.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/235.png	a plane flying over a mountain range	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/23.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/23.png	a fire is burning in the mountains	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/17.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/17.png	a plane flying over a mountain range	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/110.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/110.png	a map of the city of houston	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/202.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/202.png	a plane flying over a green and gray area	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/114.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/114.png	a plane flying over a river in the sky	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/177.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/177.png	a person is flying through the air with a kite	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/19.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/19.png	a satellite image of a large area of land	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/106.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/haze/106.png	a plane flying over a large area of land	haze

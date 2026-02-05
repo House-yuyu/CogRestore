@@ -1,0 +1,101 @@
+gt_path	lq_path	caption	degradation
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/653.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/653.png	a boat is docked in the water near a dock	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/179.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/179.png	a satellite image of the area where the plane crashed	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/44.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/44.png	an aerial view of the island of kos	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/844.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/844.png	an aerial view of a large airport	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/698.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/698.png	two fighter jets are parked on a runway	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/122.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/122.png	a large piece of ice on the ground	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/138.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/138.png	a group of people walking down a street	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/98.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/98.png	a bird flying over a field of grass	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/170.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/170.png	a white and blue sky with clouds	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/655.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/655.png	a man in a suit and tie standing in front of a building	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/778.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/778.png	the plane is seen in this aerial image	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/958.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/958.png	a street with cars and a sign that says, ' no parking '	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/898.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/898.png	a white wall with a bunch of blue flowers	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/312.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/312.png	a close up of a rock with a blur effect	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/511.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/511.png	a large building with a lot of windows	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/781.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/781.png	an aerial view of the uss enterprise	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/125.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/125.png	an aerial view of the runway at the airport	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/297.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/297.png	a small white building in the middle of a field	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/748.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/748.png	a plane flying over the ocean with a lot of buildings in the background	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/226.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/226.png	a large body of water	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/408.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/408.png	a blur of a car and a person on a bike	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/431.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/431.png	a white and black box with a black and white box	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/188.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/188.png	a satellite image of the area where the area is located	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/688.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/688.png	a white sheet with a black bird on it	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/741.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/741.png	a satellite image of the city of kabul	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/984.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/984.png	an aerial view of the city of baghdad	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/90.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/90.png	a large body of water with a boat in it	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/863.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/863.png	a black and white photo of a man with a beard	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/967.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/967.png	a group of people walking down a street	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/782.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/782.png	an aerial view of the city of london	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/365.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/365.png	the view from space shows the earth ' s terrain	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/291.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/291.png	a picture of a road with a lot of cars	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/759.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/759.png	a picture of a city with a river	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/708.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/708.png	a picture of a city with a lot of buildings	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/212.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/212.png	a man in a suit and tie standing in front of a mountain	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/323.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/323.png	a satellite image of a road in the middle of a forest	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/615.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/615.png	two airplanes are parked on the runway	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/351.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/351.png	a satellite image of a plane flying over a desert	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/425.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/425.png	a bird flying over a city with a red building	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/990.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/990.png	a man riding a bike on a dirt covered road	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/920.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/920.png	a group of birds flying in the air	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/354.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/354.png	a satellite image of the israeli air strike site	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/248.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/248.png	a black and white photo of a cloud	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/716.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/716.png	a group of fighter jets flying over a runway	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/842.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/842.png	a man in a suit and tie standing in front of a wall	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/447.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/447.png	an island in the middle of the ocean	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/951.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/951.png	a plane is flying over a field	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/684.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/684.png	a large field with a bunch of airplanes	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/308.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/308.png	a satellite image of a city with buildings	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/241.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/241.png	a large rock	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/771.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/771.png	a satellite image of the uss uss enterprise	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/103.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/103.png	a satellite image of a city with buildings	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/200.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/200.png	a painting of a mountain with a blue sky	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/630.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/630.png	a group of airplanes flying over a field	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/887.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/887.png	an aerial view of the airport	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/281.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/281.png	a close up of a white sheet with black lines	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/669.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/669.png	a large airport with several airplanes parked on the tar	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/893.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/893.png	a satellite image of the site of the site of the first bomb	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/369.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/369.png	an aerial view of an airport with planes parked on the runway	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/127.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/127.png	a plane is flying over a green field	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/14.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/14.png	a group of planes are parked on the runway	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/642.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/642.png	a group of airplanes flying through the sky	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/245.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/245.png	a small town with a lot of cars parked on it	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/868.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/868.png	an aerial view of a road and a field	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/745.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/745.png	a large ship is docked in the water	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/593.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/593.png	a group of birds flying over a body of water	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/275.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/275.png	a street with a lot of cars parked on it	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/303.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/303.png	a large area of land	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/184.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/184.png	a city with lots of buildings and trees	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/162.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/162.png	a satellite image of a city	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/488.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/488.png	a black and white photo of a man in a suit	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/521.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/521.png	an aerial view of the island of storno	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/641.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/641.png	a group of birds flying over a beach	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/987.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/987.png	a large building with a lot of debris on it	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/300.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/300.png	a painting of a man on a beach	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/841.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/841.png	a man in a suit and tie walking down a street	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/88.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/88.png	a blur of a boat in the water	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/914.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/914.png	a street with many cars parked on it	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/429.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/429.png	a field with a dirt road and a dirt road	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/120.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/120.png	a blur of a tree in the woods	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/801.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/801.png	a large boat floating in the water	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/799.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/799.png	an aerial view of the city of miami	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/600.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/600.png	a bird flying over a building with a window	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/485.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/485.png	a bird flying over a city with lots of buildings	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/192.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/192.png	a white diamond on a brown background	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/607.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/607.png	a large parking lot with a lot of cars parked in it	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/3.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/3.png	an aerial view of a city with buildings	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/564.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/564.png	a large ship is docked in the water	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/678.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/678.png	a plane flying over a city with buildings	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/191.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/191.png	an aerial view of a green field with a road	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/411.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/411.png	a map of the area where the ice is melting	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/183.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/183.png	a view of a road and a field	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/434.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/434.png	an aerial view of the intersection of interstate and i - 95	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/171.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/171.png	a black and white photo of a man in a suit	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/449.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/449.png	a bird is perched on a tree branch	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/721.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/721.png	a couple of airplanes flying over a building	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/810.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/810.png	a large group of buildings with a lot of cars	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/341.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/341.png	the moon is seen in this image from nasa	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/516.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/516.png	an aerial view of a military base	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/415.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/blur/415.png	a blur of a building in the rain	blur

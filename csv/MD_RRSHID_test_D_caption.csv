@@ -1,0 +1,307 @@
+gt_path	lq_path	caption	degradation
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/193.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/193.png	a large field with a small house in the middle	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2451.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2451.png	a satellite image of a city at night	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2955.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2955.png	a man in a black shirt	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1292.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1292.png	a man in a black shirt	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2643.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2643.png	a man on a skateboard on a ramp	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2040.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2040.png	a satellite image of a city	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2908.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2908.png	a city at night	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/789.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/789.png	a piece of cake	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1035.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1035.png	a city at night	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1167.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1167.png	a brick wall with a light shining through it	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2727.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2727.png	a city at night	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/335.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/335.png	a black and white cat	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/81.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/81.png	a satellite image of a city at night	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1747.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1747.png	a satellite image of a city	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2474.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2474.png	a man in a suit and tie is standing on a ledge	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2725.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2725.png	a black and white cat	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2527.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2527.png	a black roof	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2913.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2913.png	a man playing tennis	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/698.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/698.png	a black and white cat	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1746.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1746.png	an aerial view of a city with buildings	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2966.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2966.png	a city at night	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/47.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/47.png	a city at night	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/451.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/451.png	a black and white cat	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1295.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1295.png	a city at night	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/645.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/645.png	a man in a black shirt	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/655.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/655.png	a satellite image of a city at night	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1555.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1555.png	a black and white photo of a man in a suit	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/699.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/699.png	a black background	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2706.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2706.png	an aerial view of a city at night	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2956.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2956.png	a city with lots of buildings and a street	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/957.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/957.png	the satellite satellite image shows the location of the satellite station	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1067.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1067.png	a black and white tile with a white border	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1060.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1060.png	a man in a black shirt is standing in the dark	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/360.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/360.png	a city at night	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/520.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/520.png	a black and white photo of a city	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1190.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1190.png	a black and white photo of a city at night	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2630.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2630.png	a black and white cat	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2369.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2369.png	a man in a suit and tie is standing in front of a building	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2820.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2820.png	a black and white picture	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2447.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2447.png	a man in a suit and tie is standing in front of a wall	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1414.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1414.png	a large building with a lot of windows	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2386.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2386.png	a man in a suit	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1852.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1852.png	an aerial view of a small town	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/725.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/725.png	a black and white wall	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/99.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/99.png	a black and white photo	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/431.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/431.png	a large ship is floating in the water	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1910.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1910.png	a satellite satellite image of a satellite satellite satellite system	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1294.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1294.png	a satellite image of a city at night	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/156.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/156.png	a black fence	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/486.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/486.png	a man in a black shirt	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2236.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2236.png	a black marble tile with a white and gray pattern	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/989.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/989.png	a satellite image of the area where the bomb was located	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1706.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1706.png	an aerial view of the city of los	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/478.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/478.png	a black and white building with a clock	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1014.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1014.png	the satellite image shows the location of the site of the proposed nuclear facility	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/579.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/579.png	an aerial view of the site of the former chinese military base	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/362.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/362.png	a man in a suit	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/703.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/703.png	a man in a suit and tie standing in front of a wall	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2892.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2892.png	a black and white photo of a man in a suit	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2999.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2999.png	a black and white cat	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1907.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1907.png	a man in a black shirt	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/682.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/682.png	a man is skateboarding on a ramp	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/71.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/71.png	a city at night	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2859.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2859.png	a satellite image of the city of los	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1311.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1311.png	a street with a car parked on it	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1738.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1738.png	a crowd of people	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2405.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2405.png	a cat is sitting on a ledge in a garden	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2132.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2132.png	a large waterfall	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1072.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1072.png	a street with a car parked on it	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/609.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/609.png	a large tree with a lot of leaves	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/907.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/907.png	a black and white cat	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/858.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/858.png	a piece of cake with a blue frosting on top	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/764.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/764.png	a black and white cat	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2487.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2487.png	a close up of a tire with a tire cap	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2399.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2399.png	a city with lots of buildings and a street	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1291.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1291.png	a view of a city at night from a plane	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2505.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2505.png	a street with a lot of cars parked on it	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1145.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1145.png	a black and white cat	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/759.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/759.png	a black square shaped object with a white light	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2791.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2791.png	a city with lots of buildings and a street	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2759.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2759.png	a city with lots of buildings and a street	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1856.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1856.png	a bear is walking on the rocks	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1762.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1762.png	a red brick wall	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2331.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2331.png	a city at night	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1873.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1873.png	a satellite image of a small town	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/337.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/337.png	a black and green computer keyboard	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1249.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1249.png	the site of the proposed site in the town of st louis	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/374.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/374.png	a man riding a skateboard down a street	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1262.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1262.png	a black brick wall	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2918.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2918.png	a black and white plane	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/638.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/638.png	a cell case with a pattern on it	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/35.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/35.png	a man skateboarding on a skateboard in the dark	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/708.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/708.png	a man in a suit and tie standing in front of a building	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2036.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2036.png	a black and white dog	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1666.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1666.png	a fire is burning in a building	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2543.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2543.png	a street with a stop sign and a building	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1253.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1253.png	a fire is burning in the middle of a city	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2931.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2931.png	a satellite image of a city	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/232.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/232.png	a man in a suit and tie	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1108.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1108.png	a black tile floor	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1075.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1075.png	an aerial view of the city of wuzhou, china	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/154.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/154.png	the satellite image shows the area where the plane crashed	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2434.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2434.png	a plane flying over a city at night	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1048.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1048.png	a black and white cat	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2237.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2237.png	a black marble slab with a white vein on the surface	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2896.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2896.png	a large field of purple flowers	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/701.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/701.png	a large building with a lot of windows	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2408.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2408.png	a cat is sitting on a ledge in a city	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/136.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/136.png	a black and white bird flying over a field	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2483.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2483.png	a man in a suit and tie is standing in front of a wall	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2427.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2427.png	a black and blue wall	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1104.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1104.png	a field with a small patch of grass	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/602.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/602.png	a close up of a brick wall	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2953.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2953.png	a satellite image of a city at night	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/145.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/145.png	a man in a black shirt	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2033.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2033.png	a small blue object is seen in the middle of a field	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/27.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/27.png	a city at night	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2163.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2163.png	a city with lots of buildings and lights	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/990.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/990.png	a satellite image of a city at night	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/417.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/417.png	a man playing a game	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1201.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1201.png	a city at night	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2446.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2446.png	a man in a suit and tie is standing in front of a wall	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/911.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/911.png	a black and white cat	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1543.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1543.png	a man in a black shirt	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1101.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1101.png	an aerial view of the site of the former home of the late president of the united states,	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1219.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1219.png	an aerial view of the city of wuzhou, china	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2583.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2583.png	a man riding a skateboard down a hill	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1810.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1810.png	a fire is seen from the air as it burns	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1398.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1398.png	a large building with a roof and a roof	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1814.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1814.png	an aerial view of a city with a river	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2741.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2741.png	a large building with a clock on top of it	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/354.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/354.png	a city with lots of buildings and lights	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2888.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2888.png	a black and white plane	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/685.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/685.png	a man in a suit and tie	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2738.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2738.png	a large crowd of people	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2836.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2836.png	a satellite image of a city	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1370.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1370.png	a black and white photo of a wooden floor	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1606.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1606.png	a satellite satellite image of the site of the first satellite mission	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1520.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1520.png	a black and white background	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1787.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1787.png	a black and white tile with a white border	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1542.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1542.png	a black and white cat	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/712.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/712.png	a man in a black shirt	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1463.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1463.png	a man is jumping in the air	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2143.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2143.png	a large city with lots of buildings and a lot of cars	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/684.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/684.png	a black and white cat	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/635.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/635.png	a city with lots of buildings and lights	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2495.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2495.png	a bird is sitting on a ledge in the rain	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/752.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/752.png	a large city with lots of buildings and trees	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/3044.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/3044.png	a black and white dog	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2561.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2561.png	a skateboarder doing a trick on a ramp	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/454.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/454.png	a satellite image of a satellite satellite	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2809.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2809.png	a large area of land	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1929.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1929.png	a satellite image of a city at night	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1911.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1911.png	a black and white marble surface	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/598.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/598.png	a black and white image of a brick wall	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2637.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2637.png	a black and white cat	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/929.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/929.png	a city at night	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2940.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2940.png	a satellite image of a city	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2591.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2591.png	a black umbrella	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2689.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2689.png	a blue and black tile with a white border	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/956.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/956.png	the satellite image shows the location of the site of the proposed nuclear facility	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2863.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2863.png	a black background	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2898.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2898.png	a man in a suit and tie standing in front of a crowd	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/404.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/404.png	a black and white wall	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2867.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2867.png	a city at night	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2444.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2444.png	a cat sitting on a tiled floor	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/820.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/820.png	a skateboarder is doing a trick on a ramp	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/674.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/674.png	a man is walking down a street with a dog	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/961.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/961.png	a bird is perched on a branch in the woods	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/823.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/823.png	a city at night	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1321.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1321.png	a black and white cat	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1154.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1154.png	a large city	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/885.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/885.png	a bird is sitting on the floor	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1615.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1615.png	an aerial view of the site of the former nuclear facility	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1443.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1443.png	a satellite image of the site of the former soviet missile attack in the city of cher cher cher	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1388.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1388.png	a satellite image of the space station	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1134.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1134.png	a road with a red light on it	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1230.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1230.png	a man in a dark room	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1744.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1744.png	an aerial view of the site of the former building	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/373.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/373.png	a bird is flying over a body of water	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/897.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/897.png	a cat is sitting on a ledge in the dark	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1601.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1601.png	a bird is sitting on a ledge of a building	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/134.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/134.png	a satellite image of a satellite satellite	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1809.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1809.png	a man in a black shirt	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1931.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1931.png	a small plane flying over a forest filled with trees	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1209.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1209.png	a large waterfall	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/3008.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/3008.png	a city at night	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/315.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/315.png	a black and white photo of a city	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2719.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2719.png	a satellite image of the city of london	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/338.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/338.png	a black and green necklace with a heart	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/221.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/221.png	a black wall	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1741.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1741.png	a satellite image of a city	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/320.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/320.png	an aerial view of the site of the fire	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1305.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1305.png	a black and white cat	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/972.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/972.png	a man in a black shirt	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2061.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2061.png	a book with a black cover and a brown cover	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2107.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2107.png	a man in a suit and tie is standing on a ledge	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2749.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2749.png	a satellite image of the site of the former us air force base in the city of los	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2350.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2350.png	a large building with a lot of windows	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/589.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/589.png	a man in a suit and tie standing in front of a wall	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1673.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1673.png	an aerial view of a city with many buildings	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/57.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/57.png	a person is riding a skateboard on a sidewalk	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1844.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1844.png	a close up of a roof with a small patch of dirt	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1563.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1563.png	a man in a black shirt is holding an umbrella	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2585.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2585.png	a black table	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1636.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1636.png	a stadium with a large stadium and a large stadium	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/457.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/457.png	a basketball game is being played in a stadium	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1422.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1422.png	a large area of land with a lot of trees	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2049.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2049.png	a painting of a black and orange building	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1822.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1822.png	a man in a black shirt	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2772.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2772.png	a city at night	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2511.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2511.png	a satellite image of a city at night	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2696.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2696.png	a black and white cat	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1663.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1663.png	a black and white cat is standing in the grass	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1408.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1408.png	a black and white cat	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/65.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/65.png	a black wall	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1900.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1900.png	a man in a suit is standing in front of a fire	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2261.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2261.png	a large crowd of people	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/184.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/184.png	a city at night	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2615.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2615.png	a small town with a lot of houses	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/508.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/508.png	a man in a suit and tie standing in front of a wall	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2250.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2250.png	an aerial view of the city of london	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2481.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2481.png	a black and white photo of a city at night	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1989.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1989.png	a man in a suit and tie is standing in the grass	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2919.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2919.png	a satellite image of a city	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1961.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1961.png	a man in a suit and tie standing in front of a rock	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2550.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2550.png	a solar panel is seen in this aerial image	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1869.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1869.png	a city with lots of buildings and lights	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1985.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1985.png	a small patch of grass	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2839.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2839.png	a large city at night	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2060.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2060.png	a black and white dog	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2650.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2650.png	a city at night	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2299.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2299.png	a man in a suit and tie is sitting in a chair	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2672.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2672.png	a man in a black shirt	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/578.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/578.png	a person is walking on a sidewalk at night	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1243.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1243.png	a bird is sitting on a wooden floor	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/292.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/292.png	a river running through a forest	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2946.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2946.png	an aerial view of a city with buildings	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1571.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1571.png	a city at night	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/596.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/596.png	a black sky	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/353.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/353.png	a city with lots of buildings and a lot of smoke	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2146.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2146.png	a street with a stop sign on it	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/274.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/274.png	a large building with a clock on the top	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/88.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/88.png	a man riding a skateboard down a set of stairs	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/95.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/95.png	a large building with a lot of windows	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2297.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2297.png	a close up of a window with a light shining through it	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2108.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2108.png	a satellite image of the earth	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1023.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1023.png	a man in a suit and tie standing in front of a wall	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1432.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1432.png	a satellite image of the site of the former building in the city of wuzhou	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/429.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/429.png	a black background with a pattern of squares	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/108.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/108.png	a satellite image of the site of the former building in the city of san	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1.png	a satellite image of a volcano	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2313.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2313.png	a city with a lot of houses and buildings	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2389.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2389.png	a satellite image of a neighborhood in the bronx	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2568.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2568.png	a black tile with a white border	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1264.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1264.png	a black and white cat	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/801.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/801.png	a black wall	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/163.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/163.png	a black and white cat	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1935.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1935.png	a black bear is standing in the dark	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/851.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/851.png	a man with a beard	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/864.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/864.png	a train on the tracks	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2375.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2375.png	a city at night	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1891.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1891.png	a man is riding a bike on a trail	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1271.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1271.png	a black and white building	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2976.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2976.png	a square shaped object	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2790.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2790.png	a black and white plane	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/786.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/786.png	a man in a suit and tie is sitting on a chair	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2174.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2174.png	a man in a suit and tie standing in front of a wall	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2372.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2372.png	a city with lots of buildings and trees	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/899.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/899.png	a black cat is sitting on a rock	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2465.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2465.png	a city with a lot of buildings and a lot of cars	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1608.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1608.png	an aerial view of a city with a large area	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2720.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2720.png	a city at night	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/130.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/130.png	a city with lots of buildings and lights	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/46.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/46.png	a city at night	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1691.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1691.png	a satellite image of a city with many buildings	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1233.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1233.png	a city at night	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1899.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1899.png	a satellite image of the site of the first ufo mission	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/480.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/480.png	a large city at night	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2041.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2041.png	a black and white plane	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1164.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1164.png	a man in a suit and tie standing in front of a building	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/411.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/411.png	a black and white cat	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2116.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2116.png	a dark room with a bunch of lights	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2996.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2996.png	a man in a suit	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1453.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1453.png	a black background	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/757.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/757.png	a bird is perched on a wooden fence	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2044.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2044.png	a large pile of black slate	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/435.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/435.png	a large brick wall with a lot of bricks	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2106.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2106.png	a city at night	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/49.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/49.png	an aerial view of a city at night	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2993.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2993.png	a black and blue area	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1116.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1116.png	a cake with a lit candle on top	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1299.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1299.png	a man in a black shirt	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2343.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2343.png	a black and white picture	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1098.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1098.png	a large building with a lot of windows	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1339.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1339.png	a large brick building	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/765.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/765.png	a black and white cat	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1469.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1469.png	a satellite image of the site of the nuclear facility	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/498.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/498.png	a black and white airplane	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2903.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2903.png	a man in a black shirt	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1561.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1561.png	a black and blue light shining through a window	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/517.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/517.png	a black tiled wall	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/516.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/516.png	a black wall	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1021.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1021.png	a black wall	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1369.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/1369.png	a bird is sitting on a wooden fence	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2691.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/dark/2691.png	a man is walking down a street at night	dark

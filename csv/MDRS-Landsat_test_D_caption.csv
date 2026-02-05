@@ -1,0 +1,271 @@
+gt_path	lq_path	caption	degradation
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/193.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/193.png	a black marble floor	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/220.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/220.png	a close up of a sandy surface	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/161.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/161.png	a black and white dog laying on a brown surface	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/222.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/222.png	a satellite image of a mountain range	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/129.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/129.png	a plane flying over a city on a cloudy day	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/179.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/179.png	a black background with a lot of debris	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/259.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/259.png	a man riding a snowboard down a slope	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/44.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/44.png	the river that runs through the city of london	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/115.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/115.png	a black marble texture with a dark green marble	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/81.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/81.png	a black marble surface	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/195.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/195.png	a black and green marble floor with a white line	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/211.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/211.png	a satellite image of a city	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/233.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/233.png	a satellite image of a large area of land	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/253.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/253.png	a large mountain	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/11.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/11.png	a large city	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/69.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/69.png	a black and blue area	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/102.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/102.png	a black and white map of the area	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/132.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/132.png	a dog is laying on the ground	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/28.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/28.png	a satellite image of a city	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/149.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/149.png	a large area of land	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/122.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/122.png	a black marble surface	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/138.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/138.png	a satellite image of a city	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/98.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/98.png	a plane flying over a dark, dark, dark, dark, dark, dark, dark	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/206.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/206.png	a man in a suit and tie is standing in front of a wall	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/213.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/213.png	a black marble background	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/121.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/121.png	a black marble wall with a black marble pattern	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/47.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/47.png	a large city	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/133.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/133.png	a large body of water	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/196.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/196.png	a satellite image of a city	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/246.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/246.png	a man in a suit and tie is standing in the middle of a forest	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/135.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/135.png	a satellite image of a mountain range	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/170.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/170.png	a black marble texture background	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/209.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/209.png	a black and white dog	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/254.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/254.png	a large rock	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/180.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/180.png	a plane flying over a forest filled with trees	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/242.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/242.png	a satellite image of a mountain range	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/169.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/169.png	a black marble texture	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/150.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/150.png	a plane flying over a green mountain	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/229.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/229.png	a black and white cat laying on a brown surface	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/125.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/125.png	a black background with leaves and a small bird	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/256.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/256.png	a man riding a bike down a hill	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/119.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/119.png	a black marble background	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/56.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/56.png	a black marble background	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/137.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/137.png	a plane flying over a mountain range	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/263.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/263.png	a black marble surface	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/226.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/226.png	a black background with a pattern of leaves	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/12.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/12.png	a map of the city of london	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/234.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/234.png	a black and white map of the world	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/99.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/99.png	a black and white bird flying over a green field	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/105.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/105.png	a plane flying over a city on a cloudy day	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/20.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/20.png	a black marble wallpaper	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/258.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/258.png	a man riding a snowboard down a slope	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/54.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/54.png	a satellite image of a city	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/252.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/252.png	a man in a white shirt and black pants playing tennis	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/156.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/156.png	a black marble background with a dark texture	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/188.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/188.png	a man is playing tennis on a court	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/189.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/189.png	a brown and black area with a small patch of land	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/109.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/109.png	a large city	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/82.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/82.png	a black background with a bunch of flowers	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/172.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/172.png	a black marble floor with a black background	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/255.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/255.png	a man riding a horse on a sandy beach	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/39.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/39.png	a satellite image of a city	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/42.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/42.png	a satellite image of a mountain range	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/26.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/26.png	a brown marble floor with a black marble floor	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/67.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/67.png	a black marble background with a dark texture	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/94.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/94.png	a black marble surface	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/223.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/223.png	a satellite image of a mountain range	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/85.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/85.png	a satellite image of a city	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/90.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/90.png	a satellite image of the city of houston	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/250.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/250.png	a satellite image of a city	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/144.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/144.png	a plane flying over a river in the middle of the day	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/71.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/71.png	a man in a suit and tie is standing in the dark	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/33.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/33.png	a satellite image of a city	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/216.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/216.png	a black marble wall	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/168.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/168.png	a black marble texture	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/247.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/247.png	a tennis player is hitting the ball	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/7.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/7.png	a black and white photo of a forest floor	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/116.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/116.png	a black marble surface	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/41.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/41.png	a satellite image of the city of houston	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/203.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/203.png	a man is sitting on a bench in a park	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/10.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/10.png	a large body of water	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/25.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/25.png	a black and white dog laying on a brown surface	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/230.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/230.png	a black and white map of the area	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/205.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/205.png	a large group of brown leaves	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/268.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/268.png	a black marble wall with a black and white pattern	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/228.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/228.png	a black and white cat sitting on a black surface	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/9.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/9.png	a black background with a white border	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/185.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/185.png	a plane flying over a desert area	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/262.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/262.png	a black marble background with a dark green marble	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/261.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/261.png	a large body of water	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/40.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/40.png	a black marble background with a rough texture	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/35.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/35.png	a map of a city with a river and a small town	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/217.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/217.png	a close up view of the surface of mars	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/212.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/212.png	a satellite image of a city	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/86.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/86.png	a satellite image of a city	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/160.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/160.png	a black marble background with a rough texture	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/232.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/232.png	a black marble wallpaper with a black marble pattern	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/265.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/265.png	a black and white map of the city of atlanta	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/154.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/154.png	a black marble surface	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/113.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/113.png	a man in a wet suit is standing on a surfboard	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/52.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/52.png	a black marble texture	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/175.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/175.png	a black marble floor	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/182.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/182.png	a man in a suit and tie is standing on a brown surface	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/96.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/96.png	a plane flying over a lush green valley	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/136.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/136.png	a black marble wall	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/126.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/126.png	a large area of land	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/53.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/53.png	a plane flying over a lush green forest	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/145.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/145.png	a plane flying over a rocky mountain range	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/31.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/31.png	a large body of water	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/27.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/27.png	a satellite image of a city	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/152.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/152.png	a black marble texture background	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/32.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/32.png	a black and blue flowered field	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/264.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/264.png	a map of the area	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/6.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/6.png	a black and white map with a plane flying over it	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/5.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/5.png	a black and white background with a black and white pattern	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/243.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/243.png	a satellite image of a river running through a forest	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/194.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/194.png	a black and white dog laying on the ground	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/146.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/146.png	a plane flying over a rocky mountain range	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/248.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/248.png	a man is holding a surfboard in the water	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/147.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/147.png	a satellite image of a city	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/72.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/72.png	a black marble wallpaper with a black and white pattern	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/75.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/75.png	a map of the city of new orleans	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/87.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/87.png	a satellite image of a city	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/141.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/141.png	a plane flying over a mountain range	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/79.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/79.png	a satellite image of a city	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/238.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/238.png	a large brown area with a white line	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/241.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/241.png	a map of the area of the desert	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/187.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/187.png	a satellite satellite satellite system	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/224.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/224.png	a black marble background with a dark marble texture	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/103.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/103.png	a black background with a lot of leaves	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/8.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/8.png	a satellite image of a city	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/200.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/200.png	a black marble floor with a black marble pattern	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/239.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/239.png	a large brown area with a small patch of water	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/204.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/204.png	a view of a mountain range from a plane	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/50.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/50.png	a black marble texture background	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/123.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/123.png	a black background with a pattern of leaves	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/93.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/93.png	a satellite image of a city at night	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/89.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/89.png	a satellite image of a city	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/190.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/190.png	a black marble background	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/21.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/21.png	a satellite image of a city	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/153.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/153.png	a black marble floor with a dark green marble	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/77.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/77.png	a satellite image of a city	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/36.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/36.png	a map of the city of london	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/167.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/167.png	a black marble floor with a black marble pattern	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/22.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/22.png	a map of the city of london	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/139.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/139.png	a plane flying over a mountain range	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/58.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/58.png	a black and white map	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/100.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/100.png	a black marble floor	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/127.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/127.png	a satellite image of a mountain range	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/134.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/134.png	a black marble texture	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/128.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/128.png	a satellite image of a city	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/66.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/66.png	a satellite image of the city of houston	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/236.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/236.png	a map of the area with a brown and white color	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/221.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/221.png	a close up of a wall with a small patch of dirt	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/91.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/91.png	a black area with a small patch of land	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/14.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/14.png	a map of the city of london	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/92.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/92.png	a satellite image of a city	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/245.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/245.png	a plane flying over a green field	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/148.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/148.png	a black marble texture background	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/164.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/164.png	a satellite image of a city	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/57.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/57.png	a large body of water	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/37.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/37.png	a black and white map of the area	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/197.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/197.png	a black and white cat	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/59.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/59.png	a man riding a skateboard down a hill	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/251.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/251.png	a man in a suit and tie is standing on a ledge	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/244.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/244.png	a black and brown marble floor with a black and brown marble floor	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/257.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/257.png	a brown marble texture	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/237.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/237.png	a satellite image of a mountain range	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/158.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/158.png	a black marble texture with a dark background	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/214.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/214.png	a black marble wallpaper	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/18.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/18.png	a satellite image of the city of london	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/65.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/65.png	a satellite image of the city of houston	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/61.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/61.png	a man in a suit and tie is standing in front of a clock	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/76.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/76.png	a satellite image of a mountain	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/184.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/184.png	a satellite image of a river running through a city	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/249.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/249.png	a satellite image of a lake	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/157.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/157.png	a plane flying over a mountain range	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/162.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/162.png	a man in a suit and tie is standing in the grass	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/2.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/2.png	a plane flying over a green mountain range	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/16.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/16.png	a map of the city of london	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/142.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/142.png	a black marble wall	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/219.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/219.png	a tennis player is hitting the ball	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/74.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/74.png	a satellite image of a river and a city	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/117.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/117.png	a black marble floor with a black marble floor	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/210.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/210.png	a black marble background with a dark texture	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/166.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/166.png	a satellite image of a city	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/140.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/140.png	a map of the mountains and valleys of the colorado river	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/68.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/68.png	a black marble background with a dark marble texture	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/30.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/30.png	a satellite image of a city at night	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/151.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/151.png	a black marble background with a dark brown marble	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/112.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/112.png	a black marble floor with a black marble floor	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/38.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/38.png	a black and white background with a black and white pattern	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/124.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/124.png	a black and white bird flying over a field	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/227.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/227.png	a man in a suit and tie is holding a cell	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/34.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/34.png	a satellite image of a city	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/231.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/231.png	a black and white marble floor	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/88.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/88.png	a satellite image of a city	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/95.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/95.png	the water is green	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/176.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/176.png	a satellite image of a forest	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/208.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/208.png	a large rock wall	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/198.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/198.png	a black marble surface	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/107.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/107.png	a black background with a white and black pattern	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/267.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/267.png	a satellite map of the city of london	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/143.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/143.png	a black river	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/55.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/55.png	a black marble floor with a black marble floor	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/108.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/108.png	a satellite image of a city	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/15.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/15.png	a satellite image of a city	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/1.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/1.png	a black marble background with a dark texture	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/215.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/215.png	a black marble wall	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/43.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/43.png	a plane flying over a green mountain	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/120.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/120.png	a satellite image of a river running through a forest	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/201.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/201.png	a satellite image of a mountain range	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/163.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/163.png	a man in a suit and tie is standing on a ledge	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/260.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/260.png	a man riding a snowboard down a slope	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/29.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/29.png	a satellite image of the city of houston	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/62.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/62.png	a large body of water	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/48.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/48.png	a black and white cat laying on the ground	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/80.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/80.png	a satellite image of a city	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/118.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/118.png	a satellite image of a mountain range	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/165.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/165.png	a satellite image of a city	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/269.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/269.png	a black and white dog laying on a black surface	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/192.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/192.png	a black and white dog laying on a bed	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/266.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/266.png	a satellite image of a city	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/178.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/178.png	a map of the area	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/218.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/218.png	a close up of a brown surface with small rocks	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/101.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/101.png	a map of the area	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/63.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/63.png	a man is flying a kite in the air	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/159.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/159.png	a satellite image of a city	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/3.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/3.png	a black and white map of the area	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/181.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/181.png	a satellite image of a city	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/173.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/173.png	a plane flying over a large body of water	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/130.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/130.png	a black bird is sitting on the ground	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/46.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/46.png	a satellite image of a city	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/83.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/83.png	a large area with lots of brown and blue	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/155.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/155.png	a plane flying over a green and black marble	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/270.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/270.png	a satellite image of a city	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/240.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/240.png	a satellite image of a mountain range	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/111.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/111.png	a satellite image of a small town	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/191.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/191.png	a black background with a small bird on it ' s back	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/51.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/51.png	a black marble wall	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/199.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/199.png	a black marble background with a dark texture	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/84.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/84.png	a satellite image of a city	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/207.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/207.png	a black and white cat sitting on a rock	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/183.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/183.png	a satellite image of a river and land	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/4.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/4.png	a black and brown background with a pattern	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/73.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/73.png	a map of the city of london	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/171.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/171.png	a black marble background with a dark texture	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/64.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/64.png	a satellite image of the city of houston	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/49.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/49.png	a black marble floor	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/131.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/131.png	a map of the area	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/13.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/13.png	a map of the city of london	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/60.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/60.png	a brown and black background with a pattern of leaves	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/70.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/70.png	a large river	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/174.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/174.png	a black and white background with a black and white pattern	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/97.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/97.png	a plane flying over a green mountain	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/24.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/24.png	a map of the city of london	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/78.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/78.png	a black and white map	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/45.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/45.png	a plane flying over a lush green forest	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/225.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/225.png	a satellite image of a mountain	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/104.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/104.png	a bird is flying over a muddy field	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/186.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/186.png	a satellite image of a city	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/235.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/235.png	a map of the area of the area	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/23.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/23.png	a large mountain range	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/17.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/17.png	a satellite image of a mountain range	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/110.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/110.png	a satellite image of a city at night	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/202.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/202.png	a black marble texture background	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/114.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/114.png	a black marble surface with a green line	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/177.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/177.png	a man in a suit and tie is standing in the grass	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/19.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/19.png	a black marble texture	dark
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/106.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/dark/106.png	a black and white map of the area	dark

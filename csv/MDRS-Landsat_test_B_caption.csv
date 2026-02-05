@@ -1,0 +1,271 @@
+gt_path	lq_path	caption	degradation
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/193.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/193.png	a bird flying over a lush green forest	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/220.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/220.png	a person walking on a sandy beach	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/161.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/161.png	a small plane flying over a desert	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/222.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/222.png	a plane flying over a lush green forest	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/129.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/129.png	a plane flying over a rocky area	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/179.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/179.png	a satellite image of a city	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/259.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/259.png	a man in a suit and tie is standing on a ledge	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/44.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/44.png	a satellite image of the river thames	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/115.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/115.png	a black and white dog is standing in the grass	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/81.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/81.png	a man in a wet suit is surfing on a wave	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/195.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/195.png	a bird flying over a green field	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/211.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/211.png	a satellite image of the lake	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/233.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/233.png	a map of the area	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/253.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/253.png	a dog is running on the beach	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/11.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/11.png	a black and white bird flying over a field	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/69.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/69.png	a satellite image of a city	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/102.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/102.png	a brown and black surface with a small patch of dirt	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/132.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/132.png	a bird flying over a rocky area	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/28.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/28.png	a satellite image of a city	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/149.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/149.png	a man flying a kite in the air	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/122.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/122.png	a man in a suit and tie is standing on a ledge	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/138.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/138.png	a man riding a horse on a dirt covered field	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/98.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/98.png	a plane flying over a lush green forest	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/206.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/206.png	a satellite image of the area where the plane crashed	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/213.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/213.png	a bird flying over a field of grass	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/121.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/121.png	a plane flying over a green mountain	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/47.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/47.png	a bird flying over a city with a road	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/133.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/133.png	a satellite image of a small town	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/196.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/196.png	a satellite image of a city	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/246.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/246.png	a man in a black shirt and a white shirt	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/135.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/135.png	a map of the area	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/170.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/170.png	a satellite image of a plane flying over a field	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/209.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/209.png	a bird flying over a field of grass	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/254.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/254.png	a man in a black shirt and a white shirt	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/180.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/180.png	a small plane flying over a forest filled with trees	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/242.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/242.png	a large area of water with a small amount of water	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/169.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/169.png	a man in a black shirt is flying a kite	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/150.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/150.png	a man in a suit and tie is holding a cell	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/229.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/229.png	a bird is flying over a field of grass	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/125.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/125.png	a bird flying over a field of grass	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/256.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/256.png	a man riding a bike down a hill	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/119.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/119.png	a man in a black shirt is holding a tennis racket	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/56.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/56.png	a man riding a horse on a lush green field	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/137.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/137.png	a man in a suit and tie standing in front of a wall	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/263.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/263.png	a plane flying over a lush green forest	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/226.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/226.png	a bird flying over a field of grass	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/12.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/12.png	a map of the area with a lot of land	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/234.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/234.png	a man in a wet suit is surfing on a wave	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/99.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/99.png	a man in a black shirt is holding a surfboard	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/105.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/105.png	a man in a field with a baseball bat	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/20.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/20.png	a bird flying over a lush green forest	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/258.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/258.png	a close up of a brown wood floor	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/54.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/54.png	a satellite image of a mountain	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/252.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/252.png	a man holding a tennis racket	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/156.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/156.png	a man flying through the air while riding a kite	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/188.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/188.png	a tennis player is hitting the ball	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/189.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/189.png	a brown wall with a white and black sign	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/109.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/109.png	a satellite image of a city	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/82.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/82.png	a man riding a skateboard down a hill	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/172.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/172.png	a man flying a kite in the air	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/255.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/255.png	a man in a suit and tie is standing on a ledge	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/39.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/39.png	a map of the city of london	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/42.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/42.png	a green marble background	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/26.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/26.png	a brown marble floor with a brown and green pattern	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/67.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/67.png	a brown marble tile with a dark brown background	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/94.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/94.png	a man in a wet suit is surfing on a wave	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/223.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/223.png	a satellite image of a mountain range	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/85.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/85.png	a man flying a kite in the air	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/90.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/90.png	a satellite image of a city	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/250.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/250.png	a satellite image of a small town	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/144.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/144.png	a small plane flying over a large green field	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/71.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/71.png	a man in a black shirt is holding a surfboard	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/33.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/33.png	a bird flying over a field of grass	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/216.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/216.png	a bird flying over a forest filled with trees	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/168.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/168.png	a man in a suit and tie is holding a cell	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/247.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/247.png	a tennis player is swinging at the ball	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/7.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/7.png	a plane flying over a field of grass	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/116.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/116.png	a bird flying over a field of grass	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/41.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/41.png	a satellite image of a city	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/203.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/203.png	a man holding a tennis racket on a court	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/10.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/10.png	a view of a city from a plane	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/25.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/25.png	a satellite image of a small town	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/230.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/230.png	a bird flying over a rocky mountain	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/205.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/205.png	a satellite image of the mountains of the andes	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/268.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/268.png	a small plane flying over a large mountain	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/228.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/228.png	a bird flying over a field of grass	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/9.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/9.png	a black and white cat sitting on a white surface	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/185.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/185.png	a plane flying over a desert area	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/262.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/262.png	a plane flying over a green field	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/261.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/261.png	a satellite image of a river running through a desert	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/40.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/40.png	a satellite image of a plane flying over a green field	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/35.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/35.png	a satellite image of the area where the bodies of two people were found	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/217.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/217.png	a small object is in the sand	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/212.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/212.png	a satellite image of a mountain range	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/86.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/86.png	a plane flying over a city with lots of buildings	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/160.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/160.png	a green background with a pattern of small squares	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/232.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/232.png	a plane flying over a green mountain	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/265.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/265.png	a man in a black shirt and a white shirt	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/154.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/154.png	a bird flying over a green field	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/113.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/113.png	a large green field with a small patch of grass	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/52.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/52.png	a bird flying over a body of water	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/175.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/175.png	a man in a suit and tie is standing in front of a green wall	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/182.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/182.png	a small plane flying over a desert area	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/96.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/96.png	a plane flying over a green field	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/136.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/136.png	a black and white bird flying over a field	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/126.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/126.png	a man in a suit and tie is standing in front of a wall	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/53.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/53.png	a plane flying over a lush green forest	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/145.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/145.png	a man in a suit and tie is standing in front of a wall	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/31.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/31.png	a satellite image of a city	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/27.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/27.png	a satellite image of a city	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/152.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/152.png	a green marble texture	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/32.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/32.png	a black and white bird flying over a field	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/264.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/264.png	a satellite image of a small town	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/6.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/6.png	a plane flying over a green field	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/5.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/5.png	a plane flying over a green mountain range	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/243.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/243.png	a plane flying over a green field	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/194.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/194.png	a plane flying over a field of grass	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/146.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/146.png	a plane flying over a green field	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/248.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/248.png	a plane flying over a body of water	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/147.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/147.png	a plane flying over a green field	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/72.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/72.png	a bird flying over a green field	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/75.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/75.png	a bird flying over a field of trash	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/87.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/87.png	a satellite image of a city	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/141.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/141.png	a bird flying over a dirt covered field	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/79.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/79.png	a satellite image of a city with a river running through it	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/238.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/238.png	a satellite image of the martian	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/241.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/241.png	a close up of a rock with a small hole in the middle	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/187.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/187.png	a satellite satellite satellite satellite system	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/224.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/224.png	a dark green background with a small white dot	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/103.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/103.png	a brown background with a small green dot	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/8.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/8.png	a satellite image of a city	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/200.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/200.png	a satellite image of a small town	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/239.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/239.png	a man in a suit and tie is standing on a rock	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/204.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/204.png	a bird flying over a forest filled with trees	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/50.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/50.png	a plane flying over a green field of grass	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/123.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/123.png	a dark green marble texture background	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/93.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/93.png	a satellite image of a city	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/89.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/89.png	a small plane flying over a city	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/190.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/190.png	a plane flying over a green mountain	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/21.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/21.png	a satellite image of a city	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/153.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/153.png	a green marble texture	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/77.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/77.png	a satellite image of the city of london	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/36.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/36.png	a man flying a kite in the air	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/167.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/167.png	a green marble texture background	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/22.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/22.png	a map of the city of london	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/139.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/139.png	a man in a suit and tie is standing in front of a wall	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/58.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/58.png	a satellite image of a lake in the middle of a city	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/100.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/100.png	a bird flying over a green field	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/127.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/127.png	a man in a suit and tie is standing on a ledge	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/134.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/134.png	a plane flying over a green field	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/128.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/128.png	a satellite image of a city	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/66.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/66.png	a man holding a tennis racket on a tennis court	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/236.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/236.png	a black and white plane flying over a rocky mountain	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/221.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/221.png	a close up of a brown wall with a small hole	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/91.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/91.png	a satellite image of a city	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/14.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/14.png	a satellite image of the city of new orleans	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/92.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/92.png	a small plane flying over a field of grass	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/245.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/245.png	a man in a suit and tie is holding a tennis racket	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/148.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/148.png	a green marble texture	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/164.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/164.png	a brown and white dog is standing on a brown surface	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/57.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/57.png	a satellite image of the island of st lucia	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/37.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/37.png	a satellite image of a small town	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/197.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/197.png	a satellite image of a small town	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/59.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/59.png	a man riding a horse on a dirt covered field	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/251.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/251.png	a man in a suit and tie is standing on a stage	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/244.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/244.png	a man in a black shirt and a white shirt	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/257.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/257.png	a close up of a marble tile	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/237.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/237.png	a close up of a rock with a small hole in the middle	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/158.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/158.png	a plane flying over a lush green forest	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/214.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/214.png	a satellite image of a river running through a valley	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/18.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/18.png	a bird flying over a field with grass	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/65.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/65.png	a man flying a kite in the air	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/61.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/61.png	a man in a suit and tie standing on a ledge	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/76.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/76.png	a satellite image of a small town	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/184.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/184.png	a satellite image of a river in the middle of a city	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/249.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/249.png	a satellite image of the earth	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/157.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/157.png	a satellite image of a mountain	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/162.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/162.png	a man in a suit and tie is holding a cell	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/2.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/2.png	a bird flying over a green field	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/16.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/16.png	a satellite image of a city	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/142.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/142.png	a plane flying over a green mountain range	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/219.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/219.png	a tennis player is hitting the ball	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/74.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/74.png	a bird flying over a river in the middle of a forest	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/117.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/117.png	a man in a suit and tie holding a tennis racket	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/210.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/210.png	a bird flying over a lush green forest	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/166.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/166.png	a plane flying over a city with a map	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/140.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/140.png	a plane flying over a mountain range	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/68.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/68.png	a close up of a marble floor	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/30.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/30.png	a plane flying over a field of trash	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/151.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/151.png	a man in a suit and tie is standing on a ledge	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/112.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/112.png	a satellite image of the area where the plane crashed	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/38.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/38.png	a plane flying over a lush green valley	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/124.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/124.png	a man in a suit and tie is standing on a ledge	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/227.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/227.png	a bird flying over a field of grass	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/34.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/34.png	a satellite image of a city	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/231.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/231.png	a satellite image of a mountain range	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/88.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/88.png	a plane flying over a city with lots of trees	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/95.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/95.png	a satellite image of a lake and land	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/176.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/176.png	a plane flying over a lush green forest	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/208.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/208.png	a plane flying over a rocky mountain range	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/198.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/198.png	a plane flying over a large green valley	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/107.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/107.png	a bird flying over a sandy beach	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/267.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/267.png	a bird flying over a city with lots of buildings	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/143.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/143.png	a map of the area	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/55.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/55.png	a close up of a marble floor	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/108.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/108.png	a satellite image of a mountain range	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/15.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/15.png	a satellite image of a city	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/1.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/1.png	a bird flying over a green field	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/215.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/215.png	a bird flying over a green field	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/43.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/43.png	a bird flying over a lush green field	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/120.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/120.png	a small plane flying over a green field	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/201.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/201.png	a satellite image of the area where the fire started	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/163.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/163.png	a man in a suit and tie is standing on a ledge	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/260.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/260.png	a close up of a sand dune	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/29.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/29.png	a satellite image of a field with a small patch of land	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/62.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/62.png	an aerial view of a large body of water	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/48.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/48.png	a bird flying over a lush green field	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/80.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/80.png	a satellite image of a city	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/118.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/118.png	a bird flying over a green field	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/165.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/165.png	a bird flying over a field of grass	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/269.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/269.png	a satellite image of a small town	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/192.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/192.png	a satellite image of a mountain	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/266.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/266.png	a satellite image of the area where the plane crashed	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/178.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/178.png	a man in a suit and tie standing in front of a wall	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/218.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/218.png	a brown surface with a small amount of dirt	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/101.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/101.png	a bird flying over a sandy beach	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/63.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/63.png	a person is flying a kite	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/159.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/159.png	a plane flying over a forest filled with trees	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/3.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/3.png	a plane flying over a green field	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/181.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/181.png	a satellite image of a city	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/173.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/173.png	a man riding a motorcycle down a hill	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/130.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/130.png	a satellite image of a city	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/46.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/46.png	a large green field with a few small trees	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/83.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/83.png	a brown surface with a small patch of dirt	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/155.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/155.png	a plane flying over a green marble surface	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/270.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/270.png	a satellite image of a city	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/240.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/240.png	a satellite image of a mountain range	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/111.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/111.png	a satellite image of a plane flying over a forest	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/191.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/191.png	a plane flying over a green field	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/51.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/51.png	a man in a black shirt and a white shirt	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/199.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/199.png	a plane flying over a lush green forest	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/84.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/84.png	a small bird flying over a dirt field	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/207.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/207.png	a satellite image of a mountain range	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/183.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/183.png	a satellite image of a city	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/4.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/4.png	a plane flying over a forest filled with trees	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/73.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/73.png	a satellite image of a city	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/171.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/171.png	a green field with a small patch of grass	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/64.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/64.png	a bird is flying over a field	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/49.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/49.png	a black marble tile with a dark green background	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/131.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/131.png	a man riding a horse on a dirt covered field	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/13.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/13.png	a brown marble floor with a dark brown and white pattern	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/60.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/60.png	a man in a suit and tie is standing in front of a wall	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/70.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/70.png	a satellite image of a river in the middle of a city	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/174.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/174.png	a plane flying over a lush green field	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/97.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/97.png	a man in a suit and tie is standing in front of a wall	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/24.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/24.png	a map of the city of new orleans	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/78.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/78.png	a satellite image of a city	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/45.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/45.png	a green marble wall	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/225.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/225.png	a satellite image of a small town	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/104.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/104.png	a bird is standing on the ground	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/186.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/186.png	a satellite image of a city	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/235.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/235.png	a brown and white marble tile	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/23.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/23.png	a blur of a bird flying over a field	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/17.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/17.png	a satellite image of a desert area	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/110.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/110.png	a bird flying over a field of grass	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/202.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/202.png	a man in a suit and tie is standing in front of a wall	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/114.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/114.png	a satellite image of a river running through a forest	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/177.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/177.png	a bird flying over a field of grass	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/19.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/19.png	a satellite image of a green mountain	blur
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/clean/106.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MDRS-Landsat/test/blur/106.png	a man is holding a tennis racket	blur

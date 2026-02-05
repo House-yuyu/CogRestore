@@ -1,0 +1,101 @@
+gt_path	lq_path	caption	degradation
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/653.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/653.png	a large body of water	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/179.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/179.png	a plane is flying over a large city	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/44.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/44.png	a large ship is in the water near a city	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/844.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/844.png	a view of an airport from a plane	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/698.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/698.png	a plane is on the runway	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/122.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/122.png	a snowboarder is flying through the air	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/138.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/138.png	a view of a parking lot from a plane	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/98.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/98.png	a view of a large area of land	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/170.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/170.png	a snow covered mountain	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/655.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/655.png	a picture of a city with a lot of buildings	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/778.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/778.png	a large ship in the water	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/958.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/958.png	a plane is flying over a city	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/898.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/898.png	a man flying a kite	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/312.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/312.png	a view of a city from above	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/511.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/511.png	a view of a city from a plane	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/781.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/781.png	a large ship in the water	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/125.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/125.png	an aerial view of a large airport	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/297.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/297.png	a man in a black jacket	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/748.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/748.png	two planes flying in the sky	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/226.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/226.png	a picture of a city from the air	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/408.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/408.png	a small town with a lot of buildings	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/431.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/431.png	an aerial view of the airport	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/188.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/188.png	a picture of a large area with a lot of buildings	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/688.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/688.png	a large white building with a lot of windows	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/741.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/741.png	a man in a suit and tie is standing in front of a map	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/984.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/984.png	a man in a suit and tie standing in front of a wall	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/90.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/90.png	a city with a lot of tall buildings	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/863.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/863.png	a white and gray area	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/967.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/967.png	a group of airplanes are parked on a runway	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/782.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/782.png	a large body of water	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/365.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/365.png	a view of a plane flying over a desert	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/291.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/291.png	a picture of a city	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/759.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/759.png	a picture of a city with a lot of buildings	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/708.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/708.png	a city with lots of buildings and a lot of smoke	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/212.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/212.png	a large mountain	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/323.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/323.png	a small plane flying over a forest filled with trees	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/615.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/615.png	a plane is flying over a field	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/351.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/351.png	an aerial view of a large airport	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/425.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/425.png	a picture of a city with a plane flying over it	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/990.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/990.png	a man on a skateboard	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/920.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/920.png	a couple of airplanes flying over a city	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/354.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/354.png	a satellite image of the syrian army in the eastern city of aleppo	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/248.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/248.png	a large white building with a lot of snow on it	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/716.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/716.png	the planes are on the runway	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/842.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/842.png	a large airport with many planes parked on it	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/447.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/447.png	an aerial view of the island	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/951.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/951.png	the plane is flying	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/684.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/684.png	a small plane is parked on the runway	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/308.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/308.png	a picture of a large building with a lot of smoke	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/241.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/241.png	a large tree with no leaves	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/771.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/771.png	a large ship in the water	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/103.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/103.png	a picture of a parking lot with a plane flying overhead	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/200.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/200.png	a view of a large airport with a plane flying over it	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/630.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/630.png	a group of airplanes are flying over a field	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/887.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/887.png	a plane is flying over a city	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/281.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/281.png	a white and gray background	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/669.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/669.png	a view of an airport with planes parked on the tar	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/893.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/893.png	a satellite image of the city of baghdad	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/369.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/369.png	an aerial view of an airport with planes parked	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/127.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/127.png	a plane flying over a lush green field	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/14.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/14.png	a boat is floating in the water near a dock	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/642.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/642.png	a group of planes flying over a city	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/245.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/245.png	a picture of a parking lot with a lot of cars	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/868.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/868.png	a plane is flying over a city	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/745.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/745.png	a large white plane	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/593.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/593.png	a large airplane is flying over a runway	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/275.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/275.png	a large area of land	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/303.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/303.png	a large area of land	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/184.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/184.png	a picture of a city with a lot of buildings	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/162.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/162.png	a city with lots of buildings and a plane flying over it	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/488.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/488.png	a black and white photo of a city	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/521.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/521.png	a small island in the middle of the ocean	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/641.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/641.png	three airplanes are parked on the tarmacl	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/987.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/987.png	a large building with a lot of smoke coming out of it	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/300.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/300.png	a man is standing in front of a wall	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/841.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/841.png	a large metal structure with many small planes	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/88.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/88.png	a large ship in the water	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/914.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/914.png	an aerial view of a city with a plane	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/429.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/429.png	a large field with a small house in the middle	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/120.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/120.png	a picture of a city from the air	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/801.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/801.png	a large white building	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/799.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/799.png	a picture of a city with a plane flying over it	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/600.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/600.png	a white wall	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/485.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/485.png	a picture of a city from the air	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/192.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/192.png	a small plane flying over a large field	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/607.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/607.png	a plane is flying over a parking lot	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/3.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/3.png	a small town in the desert	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/564.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/564.png	a large body of water	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/678.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/678.png	a plane is flying over a parking lot	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/191.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/191.png	a view of a field with a plane flying over it	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/411.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/411.png	an aerial view of the city of baghdad	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/183.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/183.png	a view of a city from a plane	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/434.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/434.png	a plane is flying over a city	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/171.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/171.png	a view of a city from the air	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/449.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/449.png	a large field with a lot of land	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/721.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/721.png	a plane is flying over a building	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/810.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/810.png	a plane is parked on the runway	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/341.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/341.png	a clock in the middle of a cement floor	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/516.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/516.png	a plane is flying over a city	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/415.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/haze/415.png	a view of a road and a mountain	haze

@@ -1,0 +1,101 @@
+gt_path	lq_path	caption	degradation
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/653.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/653.png	the wreckage of a plane is seen from above	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/179.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/179.png	an aerial image of the city of san, california	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/44.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/44.png	an aerial view of the city of manila	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/844.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/844.png	the satellite image shows the view of the city from space	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/698.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/698.png	a small plane on the ground	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/122.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/122.png	a man is standing in the middle of a tunnel	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/138.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/138.png	an aerial view of a road and a parking lot	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/98.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/98.png	satellite image of the site of the first battle of the bulge	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/170.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/170.png	an aerial view of the site of the former military base	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/655.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/655.png	a man in a black jacket and a white shirt	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/778.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/778.png	the wreckage of a plane that crashed in the middle of the gulf	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/958.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/958.png	an aerial view of the airport	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/898.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/898.png	an aerial view of the airport	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/312.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/312.png	satellite image of the city of khari	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/511.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/511.png	the wreckage of a plane that crashed in the gaza	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/781.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/781.png	the wreckage of the uss uss uss uss uss uss uss uss uss uss uss uss uss uss uss	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/125.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/125.png	an aerial view of the runway at the airport	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/297.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/297.png	the satellite satellite is seen from space	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/748.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/748.png	the space shuttle is seen from above	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/226.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/226.png	satellite image of the port of al - shar	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/408.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/408.png	satellite image of the site of the former military base in the city of khari, syria	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/431.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/431.png	an aerial view of a road and a field	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/188.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/188.png	an aerial view of the site of the ancient city of the city of poa	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/688.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/688.png	a large group of people walking around a parking lot	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/741.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/741.png	an aerial view of the city of kabul	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/984.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/984.png	satellite image of the city of baghdad	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/90.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/90.png	an aerial view of the port of oakland	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/863.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/863.png	a satellite image of the site of the first space station	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/967.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/967.png	an aerial view of a military base	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/782.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/782.png	an aerial view of the uss enterprise	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/365.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/365.png	an aerial view of the city of kabul	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/291.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/291.png	satellite image of the site of the proposed nuclear site in the cher cher cher cher cher cher cher	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/759.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/759.png	an aerial view of the site of the new building	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/708.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/708.png	satellite image of the city of beijing	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/212.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/212.png	a painting of a man in a suit	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/323.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/323.png	an aerial view of the site of the former military base	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/615.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/615.png	two airplanes are flying in the air	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/351.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/351.png	an aerial view of the site of the former military base in the city of khari	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/425.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/425.png	an aerial view of the city of baghdad	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/990.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/990.png	a large piece of paper with a hole in it	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/920.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/920.png	a group of birds flying over a building	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/354.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/354.png	a shadow of a person on a wall	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/248.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/248.png	a satellite image of the site of the site of the first world war	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/716.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/716.png	a group of fighter jets	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/842.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/842.png	an aerial view of the airport	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/447.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/447.png	an island in the middle of the ocean	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/951.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/951.png	a satellite image of the site of the crash	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/684.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/684.png	an aerial view of the site of the former military base in the city of khar, kazakhstan	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/308.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/308.png	an aerial view of the site of the former nuclear facility	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/241.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/241.png	a satellite image of the site of the first bomb	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/771.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/771.png	an aerial view of the uss enterprise	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/103.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/103.png	an aerial view of the site of the former building	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/200.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/200.png	an aerial view of the site of the proposed airport	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/630.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/630.png	a flock of birds flying over a city	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/887.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/887.png	an airplane is flying over a large airport	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/281.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/281.png	a satellite image of the site of the ancient city of babylon	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/669.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/669.png	an aerial view of the airport	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/893.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/893.png	satellite image of the city of baghdad	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/369.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/369.png	an aerial view of the airport	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/127.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/127.png	a satellite image of a small plane flying over a field	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/14.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/14.png	the wreckage of a plane that crashed in the middle of the gulf	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/642.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/642.png	a group of fighter jets flying over a field	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/245.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/245.png	the satellite image shows the view of the site of the site of the site of the site of	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/868.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/868.png	a bird flying over a building in the night	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/745.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/745.png	the space station is seen from space	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/593.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/593.png	three airplanes flying over a field with grass	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/275.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/275.png	a satellite image of the site of the ancient city of babylon	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/303.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/303.png	satellite image of the site of the blast in the city of kaohai, japan	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/184.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/184.png	a satellite image of the site of the bomb	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/162.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/162.png	satellite image of the city of beijing	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/488.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/488.png	satellite image of the city of los	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/521.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/521.png	an aerial view of the island of st mary	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/641.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/641.png	three airplanes are flying in formation on the tar	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/987.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/987.png	a large white building with a lot of windows	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/300.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/300.png	a satellite image of a small town	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/841.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/841.png	an aerial view of the site of the ancient city of khuk	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/88.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/88.png	an aerial view of the uss enterprise	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/914.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/914.png	a white and black tile floor with a white and black tile	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/429.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/429.png	a satellite image of a satellite satellite satellite	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/120.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/120.png	an aerial view of the site of the nuclear plant	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/801.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/801.png	an aerial view of the uss uss enterprise	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/799.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/799.png	the satellite satellite image shows the satellite satellite satellite satellite satellite satellite satellite satellite satellite satellite satellite satellite satellite	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/600.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/600.png	a small plane flying over a building	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/485.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/485.png	satellite image of the city of kaohai, china	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/192.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/192.png	an aerial view of the site of the proposed site	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/607.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/607.png	an aerial view of a field with a plane flying overhead	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/3.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/3.png	an aerial view of the city of baghdad	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/564.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/564.png	an aerial view of the island of san	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/678.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/678.png	a plane is flying over a parking lot	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/191.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/191.png	the satellite image shows the area where the plane crashed	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/411.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/411.png	satellite image of the site of the first nuclear test in the united states	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/183.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/183.png	an aerial view of the site of the first nuclear test site in the united states	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/434.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/434.png	an aerial view of the airport	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/171.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/171.png	an aerial view of the site of the first nuclear test site in the united	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/449.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/449.png	a black bear is standing in the woods	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/721.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/721.png	a plane flying over a building with a lot of windows	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/810.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/810.png	an aerial view of a building with a satellite satellite	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/341.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/341.png	the moon is seen in this image taken from nasa	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/516.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/516.png	an aerial view of the city of los	noise
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/clean/415.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/noise/415.png	a marble floor with a black and white pattern	noise

@@ -1,0 +1,307 @@
+gt_path	lq_path	caption	degradation
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/193.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/193.png	a satellite image of the site of the site where the site was located	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2451.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2451.png	a satellite image of a city	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2955.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2955.png	a small white dog	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1292.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1292.png	a man is standing in front of a wall	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2643.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2643.png	a man is skateboarding on a skateboard	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2040.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2040.png	a man is flying through the air with a kite	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2908.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2908.png	a satellite image of a city	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/789.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/789.png	a small plane flying through the air	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1035.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1035.png	a satellite image of the city of london	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1167.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1167.png	a white wall with a brown and white pattern	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2727.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2727.png	a view of a city from a plane	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/335.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/335.png	a cat is sitting on the floor	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/81.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/81.png	a satellite image of a field with a small house	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1747.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1747.png	a small plane flying over a city	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2474.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2474.png	a man is skateboarding on a skateboard	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2725.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2725.png	a person is standing on a rock	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2527.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2527.png	a man in a black shirt	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2913.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2913.png	a man is flying through the air with a skateboard	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/698.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/698.png	a white tile with a small hole in the middle	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1746.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1746.png	a small plane flying over a city	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2966.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2966.png	a picture of a city from above	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/47.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/47.png	the satellite image shows the satellite satellite system	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/451.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/451.png	a white tile with a black and white pattern	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1295.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1295.png	a black marble floor with a white and gray pattern	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/645.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/645.png	a white tile floor with a white background	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/655.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/655.png	a white tile floor with a white border	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1555.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1555.png	a man in a suit and tie standing on a wooden floor	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/699.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/699.png	a white and black cat with a black nose	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2706.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2706.png	a man in a suit and tie is standing on a ledge	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2956.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2956.png	a view of a city from a plane	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/957.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/957.png	a satellite image of the city of london	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1067.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1067.png	a small bird is perched on a tree	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1060.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1060.png	a man is walking on the beach with a surfboard	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/360.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/360.png	a large white and brown tile with a brown border	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/520.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/520.png	a white tile with a white border	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1190.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1190.png	a white marble tile with a brown and white pattern	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2630.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2630.png	a white wall	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2369.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2369.png	a city with a lot of buildings and a lot of cars	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2820.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2820.png	a large brown stone	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2447.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2447.png	a man is skateboarding on a skateboard	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1414.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1414.png	a small plane flying over a field	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2386.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2386.png	a blurry view of a city	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1852.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1852.png	a pink wall	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/725.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/725.png	a white wall with a white and black pattern	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/99.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/99.png	a satellite image of a small town	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/431.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/431.png	a man on a skateboard doing a trick	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1910.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1910.png	a pink wall	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1294.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1294.png	a brown marble floor with a white and black pattern	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/156.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/156.png	a satellite satellite image of the mars rover	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/486.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/486.png	a bird is standing on the ground in the rain	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2236.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2236.png	a tennis player is hitting the ball	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/989.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/989.png	satellite image of the city of london	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1706.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1706.png	a man on a skateboard	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/478.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/478.png	a white wall with a white square pattern	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1014.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1014.png	a bird is sitting on the ground	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/579.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/579.png	a man is walking down the stairs in a building	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/362.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/362.png	a man is standing on a ledge with a surfboard	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/703.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/703.png	a satellite image of the city of london	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2892.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2892.png	a man is playing tennis on a court	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2999.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2999.png	a city with a lot of buildings and a lot of cars	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1907.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1907.png	a pink wall	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/682.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/682.png	a man is flying a kite in the sky	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/71.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/71.png	a large white object with a lot of small squares	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2859.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2859.png	a man in a suit and tie is standing on a stage	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1311.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1311.png	a brown tile with a white border	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1738.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1738.png	a satellite image of a city	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2405.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2405.png	a bird is sitting on a ledge in the water	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2132.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2132.png	a satellite image of a small town	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1072.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1072.png	a satellite image of the space station	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/609.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/609.png	a white tile floor with a white background	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/907.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/907.png	a white cat is standing on the floor	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/858.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/858.png	a white marble slab with a white background	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/764.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/764.png	a white building with a large window and a small window	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2487.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2487.png	a man is standing in the middle of a street	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2399.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2399.png	a satellite image of a city	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1291.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1291.png	a brown tile with a white border	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2505.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2505.png	a cat is sitting on a chair in a room	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1145.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1145.png	a white tile floor with a white stripe	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/759.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/759.png	a man in a suit and tie is standing on a ledge	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2791.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2791.png	a brown background with a white border	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2759.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2759.png	a large city	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1856.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1856.png	a pink sky	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1762.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1762.png	a skateboarder is riding down a ramp	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2331.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2331.png	a man in a suit and tie standing in front of a building	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1873.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1873.png	a pink sky	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/337.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/337.png	a white tile floor with a small hole in the middle	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1249.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1249.png	a small bird is flying over a field	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/374.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/374.png	a man is walking down the street with a dog	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1262.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1262.png	a man in a suit and tie is walking down the street	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2918.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2918.png	a small town in the middle of a desert	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/638.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/638.png	a white plastic bag with a white plastic bag	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/35.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/35.png	a satellite image of the site of the site where the site was located	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/708.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/708.png	a painting of a man in a suit	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2036.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2036.png	a man is holding a tennis racket	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1666.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1666.png	a cat is sitting on a chair in a room	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2543.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2543.png	a blur of a city	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1253.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1253.png	a man in a suit and tie standing on a stage	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2931.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2931.png	a man in a suit and tie is standing on a stage	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/232.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/232.png	a white tile with a white border	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1108.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1108.png	a small bird is sitting on the ground	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1075.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1075.png	satellite image of the city of london	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/154.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/154.png	a large piece of wood with a hole in it	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2434.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2434.png	a man in a suit and tie standing on a stage	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1048.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1048.png	a large brown object sitting on top of a table	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2237.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2237.png	a tennis player is about to hit the ball	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2896.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2896.png	a brown and white cat	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/701.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/701.png	an aerial view of a city with a large building	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2408.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2408.png	a man in a suit and tie is standing in a room	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/136.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/136.png	a bird is flying over a field	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2483.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2483.png	a cat sitting on a tiled floor	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2427.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2427.png	a cat sitting on a tiled floor	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1104.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1104.png	a close up of a tile with a white background	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/602.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/602.png	a white wall	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2953.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2953.png	a man in a suit and tie is standing on a ledge	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/145.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/145.png	a satellite image of the space station	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2033.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2033.png	a man is flying a kite in the sky	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/27.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/27.png	the satellite image shows the view of the city from space	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2163.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2163.png	a large brown building	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/990.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/990.png	a satellite image of the city of london	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/417.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/417.png	a small bird is sitting on the ground	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1201.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1201.png	a white and brown marble tile	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2446.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2446.png	a cat is sitting on the floor	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/911.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/911.png	a man in a suit and tie is walking down the street	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1543.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1543.png	a large area with a lot of dirt on it	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1101.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1101.png	a large white bird flying over a field	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1219.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1219.png	satellite image of the city of london	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2583.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2583.png	a heart shaped object	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1810.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1810.png	a man on a skateboard	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1398.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1398.png	a white and black cat is walking on the floor	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1814.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1814.png	a man on a skateboard	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2741.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2741.png	a small plane flying over a city	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/354.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/354.png	a white marble tile with a white and gray pattern	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2888.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2888.png	a small plane flying over a city	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/685.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/685.png	a white tile with a white background	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2738.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2738.png	a man in a suit and tie is standing on a ledge	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2836.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2836.png	a person is walking on a sidewalk	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1370.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1370.png	a white tile with a brown border	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1606.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1606.png	a person is sitting on a bench	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1520.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1520.png	a man is walking down the sidewalk with a skateboard	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1787.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1787.png	a man in a suit	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1542.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1542.png	a bird is flying over a wooden fence	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/712.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/712.png	a white tile with a white border	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1463.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1463.png	a man is standing on a ledge with a rope	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2143.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2143.png	a large brown building	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/684.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/684.png	a man in a suit and tie is standing on a ledge	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/635.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/635.png	a white and pink wallpaper with a pattern	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2495.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2495.png	a cat is sitting on a wooden floor	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/752.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/752.png	a large white marble slab with a brown and white pattern	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/3044.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/3044.png	a brown toilet	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2561.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2561.png	a man is walking down a sidewalk with a skateboard	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/454.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/454.png	a plane flying through the sky with a contra streak	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2809.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2809.png	a dog is standing on the ground	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1929.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1929.png	a pink wall	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1911.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1911.png	a pink wall	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/598.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/598.png	a white tile with a white border	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2637.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2637.png	a cat is sitting on a ledge	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/929.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/929.png	live camera image of the city of new york	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2940.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2940.png	a blur of a building	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2591.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2591.png	a man on a skateboard	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2689.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2689.png	a cat is sitting on the floor	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/956.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/956.png	a man in a suit and tie is standing on a ledge	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2863.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2863.png	a man is playing tennis on a clay surface	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2898.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2898.png	a man in a suit and tie standing in front of a wall	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/404.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/404.png	a man in a suit and tie standing in front of a wall	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2867.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2867.png	a city with lots of buildings and a street	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2444.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2444.png	a man in a suit and tie is standing on a ledge	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/820.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/820.png	a white plate with a small white object on it	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/674.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/674.png	a white tile with a white border	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/961.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/961.png	a man on a skateboard	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/823.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/823.png	a satellite image of the city of london	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1321.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1321.png	a bird is sitting on the edge of a brick wall	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1154.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1154.png	the satellite satellite image shows the view of the earth from space	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/885.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/885.png	a man on a skateboard	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1615.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1615.png	a city with a lot of buildings	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1443.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1443.png	a man is standing in the middle of a field	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1388.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1388.png	a bird is sitting on the ground	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1134.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1134.png	a satellite image of the moon taken from space	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1230.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1230.png	a small white object on a brown surface	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1744.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1744.png	a satellite image of a city	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/373.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/373.png	a white bird is standing on the ground	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/897.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/897.png	a white tile with a white background	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1601.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1601.png	a white and brown tile with a small square pattern	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/134.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/134.png	a man is walking on the beach with a surfboard	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1809.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1809.png	a person on a skateboard	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1931.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1931.png	a pink wall	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1209.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1209.png	a small bird is sitting on the ground	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/3008.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/3008.png	a view of a city from a plane	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/315.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/315.png	a man in a suit and tie standing on a ledge	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2719.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2719.png	a tennis player is hitting the ball	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/338.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/338.png	a heart shaped object on a concrete floor	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/221.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/221.png	a man in a suit and tie is standing in front of a wall	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1741.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1741.png	a dog is sitting on the floor looking at something	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/320.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/320.png	a large white building with a lot of windows	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1305.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1305.png	a bird is sitting on the ground	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/972.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/972.png	a large building with a lot of windows	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2061.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2061.png	a man in a suit and tie is standing on a ledge	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2107.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2107.png	a man is playing tennis on a court	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2749.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2749.png	a man in a suit and tie	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2350.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2350.png	a blur of a city	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/589.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/589.png	a white wall with a white tile	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1673.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1673.png	a red brick wall	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/57.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/57.png	a small bird is sitting on the ground	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1844.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1844.png	a tennis player is jumping in the air	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1563.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1563.png	a bird is flying over a field	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2585.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2585.png	a white marble floor with a brown marble floor	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1636.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1636.png	a skateboarder is riding down a ramp	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/457.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/457.png	a large tile with a brown and white pattern	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1422.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1422.png	a brown and white tile with a small square pattern	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2049.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2049.png	a man in a suit and tie is standing in front of a wall	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1822.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1822.png	a bird flying in the air	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2772.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2772.png	a man in a suit and tie is standing in front of a wall	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2511.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2511.png	a satellite image of a city	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2696.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2696.png	a man with a beard	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1663.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1663.png	a man on a skateboard	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1408.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1408.png	a white and brown tile with a brown border	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/65.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/65.png	an aerial view of a city with a large area	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1900.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1900.png	a man in a white shirt	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2261.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2261.png	a large area of dirt	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/184.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/184.png	an aerial view of a city with buildings	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2615.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2615.png	a large brown stone with a white background	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/508.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/508.png	a white and black background with a small white dot	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2250.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2250.png	a man is flying a kite in the sky	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2481.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2481.png	a satellite image of a city	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1989.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1989.png	a man is standing on a skateboard	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2919.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2919.png	a satellite image of a city	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1961.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1961.png	a man is playing tennis on a court	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2550.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2550.png	a cat is sitting on a chair in a room	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1869.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1869.png	a pink wall	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1985.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1985.png	a man is flying a kite	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2839.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2839.png	a man is playing tennis on a court	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2060.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2060.png	a man holding a tennis racket	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2650.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2650.png	a man is standing on a hill with a backpack	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2299.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2299.png	a man in a suit and tie is standing in a room	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2672.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2672.png	a cat is sitting on a ledge	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/578.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/578.png	a white and black cat is sitting on the floor	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1243.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1243.png	a man in a suit and tie standing on a stage	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/292.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/292.png	a plane is flying over a field with a field in the background	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2946.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2946.png	a large city	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1571.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1571.png	a satellite image of a city with buildings	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/596.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/596.png	a white and black bird flying over a field	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/353.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/353.png	a white and gray background with a small square	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2146.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2146.png	a tennis player is hitting the ball	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/274.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/274.png	a man in a suit and tie standing on a ledge	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/88.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/88.png	the satellite image shows the view of the city from space	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/95.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/95.png	a satellite image of the earth	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2297.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2297.png	a window with blinds	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2108.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2108.png	a man in a suit and tie is standing on a stage	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1023.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1023.png	a small bird is sitting on the ground	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1432.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1432.png	the view from space shows the earth ' s surface and its surroundings	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/429.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/429.png	a man flying a kite in the sky	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/108.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/108.png	the satellite image shows the view of the earth from space	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1.png	a bird is flying over a field	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2313.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2313.png	a blur of a building	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2389.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2389.png	a small patch of land	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2568.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2568.png	a cat is sitting on the floor looking at something	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1264.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1264.png	a brick wall with a white border	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/801.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/801.png	a man in a suit and tie is standing on a ledge	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/163.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/163.png	a bird is sitting on the ground	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1935.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1935.png	a pink wall	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/851.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/851.png	a man in a suit and tie is standing on a ledge	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/864.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/864.png	a satellite image of a small town	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2375.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2375.png	a man flying a kite	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1891.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1891.png	a pink wall	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1271.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1271.png	a white and brown tile floor with a white border	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2976.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2976.png	a square shaped object	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2790.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2790.png	a brown and white background	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/786.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/786.png	a satellite image of the site of the site of the site of the site of the site of	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2174.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2174.png	a small plane flying over a field of grass	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2372.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2372.png	a city with a lot of buildings and a lot of cars	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/899.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/899.png	a white marble tile with a white border	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2465.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2465.png	a satellite image of a city with a lot of buildings	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1608.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1608.png	a man is playing tennis on a court	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2720.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2720.png	a tennis ball on a tennis court	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/130.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/130.png	an aerial view of a city with lots of buildings	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/46.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/46.png	a satellite image of the city of london	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1691.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1691.png	a red and white tile floor	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1233.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1233.png	a white tile floor with a white border	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1899.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1899.png	a pink sky	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/480.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/480.png	a white wall with a white and black pattern	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2041.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2041.png	a small plane flying over a desert	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1164.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1164.png	a white mattress with a white cover	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/411.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/411.png	a plane flying through the sky with a trail of smoke	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2116.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2116.png	a cat is sitting on the floor in a room	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2996.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2996.png	a road with a red line	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1453.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1453.png	the satellite image shows the view of the site of the site	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/757.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/757.png	a man is playing tennis on a court	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2044.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2044.png	a man is walking on a sidewalk with a skateboard	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/435.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/435.png	a white wall with a white and black pattern	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2106.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2106.png	a man is walking down a sidewalk with a skateboard	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/49.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/49.png	the satellite image shows the view of the martian ' s surface	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2993.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2993.png	a person is walking on a dirt road	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1116.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1116.png	a white and black diamond ring	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1299.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1299.png	a white tile floor with a white border	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2343.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2343.png	a square shaped diamond with a brown center	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1098.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1098.png	a satellite satellite image of the space station	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1339.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1339.png	a white wall with a white and black pattern	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/765.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/765.png	a white wall	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1469.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1469.png	an aerial view of a city with a red light	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/498.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/498.png	a white tile with a square pattern on it	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2903.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2903.png	a view of a city from a plane	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1561.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1561.png	a satellite satellite image of the international space station	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/517.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/517.png	a white tile with a square pattern	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/516.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/516.png	a man is flying a kite in the air	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1021.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1021.png	a satellite image of the space station	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/1369.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/1369.png	a man is skateboarding on a skateboard	haze
+/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/clean/2691.png	/data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RRSHID/test/haze/2691.png	a cat is sitting on the floor and looking at the camera	haze
