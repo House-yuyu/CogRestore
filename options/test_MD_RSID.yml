@@ -1,0 +1,96 @@
+
+# general settings
+name: test_MD_RSID
+model_type: ImageCleanModel_IterSup_Vec 
+scale: 1
+num_gpu: auto  # set num_gpu: 0 for cpu mode
+manual_seed: 0
+# dataset and data loader settings
+datasets:
+  test_1:
+    name: Noise
+    type: CsvDatasetV2
+    root_path: /data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/
+    csv_file_path: /data2/users/zhangxu/ISP/1_AIR/RS_recycle/csv/MD_RSID_test_N_caption.csv
+    require_text: true    ###
+    io_backend:
+      type: disk
+    mod_crop_scale: 8
+
+  test_2:
+    name: Blur
+    type: CsvDatasetV2
+    root_path: /data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/
+    csv_file_path: /data2/users/zhangxu/ISP/1_AIR/RS_recycle/csv/MD_RSID_test_B_caption.csv
+    require_text: true     ###
+    io_backend:
+      type: disk
+    mod_crop_scale: 8
+
+  test_3:
+    name: Haze
+    type: CsvDatasetV2
+    root_path: /data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/
+    csv_file_path: /data2/users/zhangxu/ISP/1_AIR/RS_recycle/csv/MD_RSID_test_H_caption.csv
+    require_text: true     ###
+    io_backend:
+      type: disk
+    mod_crop_scale: 8 
+
+  test_4:
+    name: Dark
+    type: CsvDatasetV2
+    root_path: /data2/users/zhangxu/ISP/1_AIR/PhyDAE/dataset/MD_RSID/test/
+    csv_file_path: /data2/users/zhangxu/ISP/1_AIR/RS_recycle/csv/MD_RSID_test_D_caption.csv
+    require_text: true     ###
+    io_backend:
+      type: disk
+    mod_crop_scale: 8
+
+# network structures
+network_g:
+  type: RS_AiOIR0203  # 取决了arch里的
+  inp_channels: 3        
+  out_channels: 3
+  dim: 48
+  num_blocks: [4,6,6,8]
+  num_refinement_blocks: 1   # 4
+  heads: [1,2,4,8]
+  ffn_expansion_factor: 2.66
+  bias: False
+  LayerNorm_type: WithBias
+  num_vector: 8
+  iter_times: 2   ###############
+
+# path
+path:
+  pretrain_network_g: /data2/users/zhangxu/ISP/1_AIR/RS_recycle/experiments/MD_RSID_step300k_bs6_ps128_lr2e4_d260203_2308/models/net_g_240000.pth  # weights/allweather/net_g_730000.pth
+  strict_load_g: true
+  param_key: params_ema
+  resume_state: ~
+
+# validation settings
+val:
+  save_img: true
+  grids: false      
+  window_size: 8    
+
+  metrics:
+    psnr: # metric name, can be arbitrary
+      type: calculate_psnr
+      crop_border: 0
+      test_y_channel: false
+    ssim:
+      type: calculate_ssim
+      crop_border: 0
+      test_y_channel: false
+    LPIPS: 
+      type: calculate_lpips
+      crop_border: 0
+      test_y_channel: false
+      
+
+# dist training settings
+dist_params:
+  backend: nccl
+  port: 29500
