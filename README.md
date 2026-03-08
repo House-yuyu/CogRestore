@@ -1,2 +1,2 @@
-# ClearRSI
-code will be soon
+# CogRestore
+
