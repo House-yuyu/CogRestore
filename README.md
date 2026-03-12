@@ -13,11 +13,37 @@ We evaluate CogRestore on two remote sensing image restoration datasets. All dat
 
 ### Dataset Details
 
+#### All-in-One Setting
+
 | Dataset | Train | Val | Test | Image Size | Degradation Type |
 |---------|:-----:|:---:|:----:|:----------:|:----------------:|
-| iSAID2  | x,xxx | xxx | xxx  | 512×512    | Composite (noise & dark) |
-| RealRS  | —     | —   | xxx  | 512×512    | Real-world |
-| MD-RSID | 3,200     | 400   | 400  | 256×256    | noise + blur + haze + dark |
+| MD-RSID | 3,200 | 400 | 400 | 256×256 | Noise+Blur+Haze+Dark |
+| MD-RSSHID | 9,768 | 1,220 | 1,224 | 256×256 | Noise+Blur+Haze+Dark |
+| MDRS-Landsat | 20,520 | 400 | 1,080 | 512×512 | Noise+Blur+Haze+Dark |
+
+#### Single-Task Setting
+
+| Dataset | Task | Train | Val | Test | Image Size | Degradation Type |
+|---------|:----:|:-----:|:---:|:----:|:----------:|:----------------:|
+| MD-RRSSHID | (N) Noise | 2,442 | 305 | 306 | 256×256 | Noise |
+| MD-RRSSHID | (B) Blur | 2,442 | 305 | 306 | 256×256 | Blur |
+| MD-RRSSHID | (H) Haze | 2,442 | 305 | 306 | 256×256 | Haze |
+| MD-RRSSHID | (D) Dark | 2,442 | 305 | 306 | 256×256 | Dark |
+
+#### Composite Degradation Setting
+
+| Dataset | Train | Val | Test | Image Size | Degradation Type |
+|---------|:-----:|:---:|:----:|:----------:|:----------------:|
+| iSAID2 | 3,755 | — | 66 | 512×512 | Noise & Dark |
+
+#### Real-World Generalization (Test Only)
+
+| Dataset | Task | Test | Image Size |
+|---------|:----:|:----:|:----------:|
+| RealRS | (N) Noise | 266 | 600×600 |
+| RealRS | (B) Blur | 43 | 800×800 |
+| RealRS | (H) Haze | 100 | 800×800 |
+| RealRS | (D) Dark | 13 | 300×300 |
 
 ### Dataset Structure
 
