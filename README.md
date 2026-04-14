@@ -45,14 +45,18 @@ cd CogRestore
 
 ---
 
-## 🔗 Citation
+This is the official PyTorch codes for the paper:
 
-If you find our datasets useful, please consider citing:
+>**CogRestore: Chain-of-Thought Reasoning for All-in-One Remote Sensing Image Restoration**<br>  [Xu Zhang<sup>1</sup>](https://house-yuyu.github.io/), [Xuhui Cao<sup>1</sup>](), [Kangzhe Yuan<sup>1</sup>](), [Laibin Chang<sup>1</sup>](), [Huan Zhang<sup>2</sup>](), [Lefei Zhang<sup>1📧</sup>](https://scholar.google.com.hk/citations?user=BLKHwNwAAAAJ&hl=zh-CN)<br>
+> <sup>1</sup>Wuhan University, <sup>2</sup>Guangdong University of Technology<br>
+> <sup>📧</sup>Corresponding author.
 
-```bibtex
-@article{xxx2025cogrestore,
-  title={CogRestore: xxxxxxxxxx},
-  author={xxx},
-  journal={xxx},
-  year={2025}
-}
+![teaser_img](fig/model.png)
+
+
+:star: If CogRestore is helpful to your images or projects, please help star this repo. Thank you! :point_left:
+
+
+## Contact
+
+If you have any questions, please feel free to reach us out at <a href="zhangx0802@whu.edu.cn">zhangx0802@whu.edu.cn</a>.
