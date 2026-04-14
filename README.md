@@ -41,9 +41,9 @@
 ```bash
 git clone https://github.com/your-username/CogRestore.git
 cd CogRestore
+```
 
 
----
 
 This is the official PyTorch codes for the paper:
 
