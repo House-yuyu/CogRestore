@@ -14,7 +14,7 @@
 This is the official PyTorch codes for the paper:
 
 >**CogRestore: Chain-of-Thought Reasoning for All-in-One Remote Sensing Image Restoration**<br>  [Xu Zhang<sup>1</sup>](https://house-yuyu.github.io/), [Jiaqi Ma<sup>2</sup>](), [Huan Zhang<sup>3</sup>](), [Jun Wan<sup>4</sup>](), [Lefei Zhang<sup>1📧</sup>](https://scholar.google.com.hk/citations?user=BLKHwNwAAAAJ&hl=zh-CN)<br>
-> <sup>1</sup>Wuhan University, <sup>2</sup>Guangdong University of Technology<br>
+> <sup>1</sup>Wuhan University, <sup>2</sup>MBZUAI, <sup>3</sup>Guangdong University of Technology, <sup>4</sup>Zhongnan University of Economics and Law<br>
 > <sup>📧</sup>Corresponding author.
 
 ![teaser_img](fig/model.png)
