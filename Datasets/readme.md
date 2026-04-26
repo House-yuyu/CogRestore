@@ -4,10 +4,18 @@ We evaluate CogRestore on five remote sensing image restoration datasets. All da
 
 ## Download Links
 
-| Dataset | Description | Baidu Netdisk |
-|---------|-------------|:-------------:|
-| iSAID2  | Synthetic composite degradation (noise & dark) | [Download](https://pan.baidu.com/s/xxxxx) (Code: `xxxx`) |
-| RealRS  | Real-world degradation (no ground-truth) | [Download](https://pan.baidu.com/s/xxxxx) (Code: `xxxx`) |
+All datasets can be downloaded from the same Baidu Netdisk link:
+
+**Baidu Netdisk:** [Download](https://pan.baidu.com/s/1wC32XoGcLwkpy7bDkwxmZQ)  
+**Code:** `1222`
+
+| Dataset | Description |
+|---------|------|
+| iSAID2 | Synthetic composite degradation with noise and darkness |
+| RealRS | Real-world degradation without ground truth |
+| MD-RSID | Multi-degradation remote sensing image dataset |
+| MD-RSSHID | Multi-degradation remote sensing image dataset |
+| MDRS-Landsat | Multi-degradation Landsat remote sensing dataset |
 
 ## Dataset Details
 
