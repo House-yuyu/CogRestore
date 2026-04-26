@@ -74,6 +74,6 @@ We provide the pretrained CogRestore model for direct inference and evaluation.
 ```
 
 
-## Contact
+## 📫 Contact
 
 If you have any questions, please feel free to reach us out at <a href="zhangx0802@whu.edu.cn">zhangx0802@whu.edu.cn</a>.
