@@ -64,7 +64,14 @@ We provide the pretrained CogRestore model for direct inference and evaluation.
 
 
 ## 🚀 Quick Start
-
+### train
+```bash
+./train.sh
+```
+### test
+```bash
+./test.sh
+```
 
 
 ## Contact
