@@ -53,6 +53,20 @@ git clone https://github.com/your-username/CogRestore.git
 cd CogRestore
 ```
 
+
+## 📦 Pretrained Model
+
+We provide the pretrained CogRestore model for direct inference and evaluation.
+
+| Model | Baidu Netdisk |
+|-------|:-------------:|
+| CogRestore | [Download](https://pan.baidu.com/s/1O3gKRGAaA5DmXmM5F3RwLA) (Code: `1222`) |
+
+
+## 🚀 Quick Start
+
+
+
 ## Contact
 
 If you have any questions, please feel free to reach us out at <a href="zhangx0802@whu.edu.cn">zhangx0802@whu.edu.cn</a>.
